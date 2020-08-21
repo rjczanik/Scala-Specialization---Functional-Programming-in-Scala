@@ -1,0 +1,1399 @@
+
+*** These modified files were found in JOE when it aborted on Fri Aug 21 21:54:48 2020
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/home/robert/Code/Scala/Scala-Specialization---Functional-Programming-in-Scala/.git/COMMIT_EDITMSG
+
+*** File '/home/robert/Code/Scala/Scala-Specialization---Functional-Programming-in-Scala/.git/COMMIT_EDITMSG'
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   Hello World/.idea/.gitignore
+#	new file:   Hello World/.idea/codeStyles/Project.xml
+#	new file:   Hello World/.idea/codeStyles/codeStyleConfig.xml
+#	new file:   Hello World/.idea/misc.xml
+#	new file:   Hello World/.idea/modules.xml
+#	new file:   Hello World/.idea/modules/hello world.iml
+#	new file:   Hello World/.idea/sbt.xml
+#	new file:   Hello World/build.sbt
+#	new file:   Hello World/project/build.properties
+#	new file:   Hello World/project/target/config-classes/$0ed2f316d15a4e7c37c5$.class
+#	new file:   Hello World/project/target/config-classes/$0ed2f316d15a4e7c37c5.cache
+#	new file:   Hello World/project/target/config-classes/$0ed2f316d15a4e7c37c5.class
+#	new file:   Hello World/project/target/config-classes/$0ed52dd6f7a36ea0680e$.class
+#	new file:   Hello World/project/target/config-classes/$0ed52dd6f7a36ea0680e.cache
+#	new file:   Hello World/project/target/config-classes/$0ed52dd6f7a36ea0680e.class
+#	new file:   Hello World/project/target/config-classes/$7fa1eec59edc1ed1693e$.class
+#	new file:   Hello World/project/target/config-classes/$7fa1eec59edc1ed1693e.cache
+#	new file:   Hello World/project/target/config-classes/$7fa1eec59edc1ed1693e.class
+#	new file:   Hello World/project/target/config-classes/$cd6fcb11783165296612$.class
+#	new file:   Hello World/project/target/config-classes/$cd6fcb11783165296612.cache
+#	new file:   Hello World/project/target/config-classes/$cd6fcb11783165296612.class
+#	new file:   Hello World/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs
+#	new file:   Hello World/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output
+#	new file:   Hello World/project/target/streams/_global/_global/_global/streams/out
+#	new file:   Hello World/project/target/streams/_global/_global/csrLogger/_global/streams/out
+#	new file:   Hello World/project/target/streams/_global/csrConfiguration/_global/streams/out
+#	new file:   Hello World/project/target/streams/_global/csrProject/_global/streams/out
+#	new file:   Hello World/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp
+#	new file:   Hello World/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp
+#	new file:   Hello World/project/target/streams/_global/ivyConfiguration/_global/streams/out
+#	new file:   Hello World/project/target/streams/_global/ivySbt/_global/streams/out
+#	new file:   Hello World/project/target/streams/_global/moduleSettings/_global/streams/out
+#	new file:   Hello World/project/target/streams/_global/projectDescriptors/_global/streams/out
+#	new file:   Hello World/project/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out
+#	new file:   Hello World/project/target/streams/_global/update/_global/streams/out
+#	new file:   Hello World/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous
+#	new file:   Hello World/project/target/streams/compile/_global/_global/compileOutputs/previous
+#	new file:   Hello World/project/target/streams/compile/_global/_global/compileSourceFileInputs/previous
+#	new file:   Hello World/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous
+#	new file:   Hello World/project/target/streams/compile/_global/_global/discoveredMainClasses/data
+#	new file:   Hello World/project/target/streams/compile/_global/_global/managedSourcePaths/previous
+#	new file:   Hello World/project/target/streams/compile/compile/_global/streams/out
+#	new file:   Hello World/project/target/streams/compile/compileIncremental/_global/streams/export
+#	new file:   Hello World/project/target/streams/compile/compileIncremental/_global/streams/out
+#	new file:   Hello World/project/target/streams/compile/copyResources/_global/streams/copy-resources
+#	new file:   Hello World/project/target/streams/compile/copyResources/_global/streams/out
+#	new file:   Hello World/project/target/streams/compile/dependencyClasspath/_global/streams/export
+#	new file:   Hello World/project/target/streams/compile/exportedProducts/_global/streams/export
+#	new file:   Hello World/project/target/streams/compile/externalDependencyClasspath/_global/streams/export
+#	new file:   Hello World/project/target/streams/compile/internalDependencyClasspath/_global/streams/export
+#	new file:   Hello World/project/target/streams/compile/managedClasspath/_global/streams/export
+#	new file:   Hello World/project/target/streams/compile/unmanagedClasspath/_global/streams/export
+#	new file:   Hello World/project/target/streams/compile/unmanagedJars/_global/streams/export
+#	new file:   Hello World/project/target/streams/runtime/dependencyClasspath/_global/streams/export
+#	new file:   Hello World/project/target/streams/runtime/exportedProducts/_global/streams/export
+#	new file:   Hello World/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export
+#	new file:   Hello World/project/target/streams/runtime/fullClasspath/_global/streams/export
+#	new file:   Hello World/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export
+#	new file:   Hello World/project/target/streams/runtime/managedClasspath/_global/streams/export
+#	new file:   Hello World/project/target/streams/runtime/unmanagedClasspath/_global/streams/export
+#	new file:   Hello World/project/target/streams/runtime/unmanagedJars/_global/streams/export
+#	new file:   Hello World/target/.history
+#	new file:   Hello World/target/scala-2.13/update/update_cache_2.13/inputs
+#	new file:   Hello World/target/scala-2.13/update/update_cache_2.13/output
+#	new file:   Hello World/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous
+#	new file:   Hello World/target/streams/_global/_global/checkBuildSources/_global/streams/out
+#	new file:   Hello World/target/streams/_global/_global/csrLogger/_global/streams/out
+#	new file:   Hello World/target/streams/_global/csrConfiguration/_global/streams/out
+#	new file:   Hello World/target/streams/_global/csrProject/_global/streams/out
+#	new file:   Hello World/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/input_dsp
+#	new file:   Hello World/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/output_dsp
+#	new file:   Hello World/target/streams/_global/ivyConfiguration/_global/streams/out
+#	new file:   Hello World/target/streams/_global/ivySbt/_global/streams/out
+#	new file:   Hello World/target/streams/_global/moduleSettings/_global/streams/out
+#	new file:   Hello World/target/streams/_global/projectDescriptors/_global/streams/out
+#	new file:   Hello World/target/streams/_global/update/_global/streams/out
+#	new file:   Hello World/target/streams/_global/updateClassifiers/_global/streams/out
+#	new file:   Hello World/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/inputs
+#	new file:   Hello World/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output
+#	new file:   Hello World/target/streams/_global/updateSbtClassifiers/_global/streams/out
+#	new file:   Hello World/target/streams/compile/externalDependencyClasspath/_global/streams/export
+#	new file:   Hello World/target/streams/compile/managedClasspath/_global/streams/export
+#	new file:   Hello World/target/streams/compile/unmanagedClasspath/_global/streams/export
+#	new file:   Hello World/target/streams/compile/unmanagedJars/_global/streams/export
+#	new file:   Hello World/target/streams/runtime/externalDependencyClasspath/_global/streams/export
+#	new file:   Hello World/target/streams/runtime/managedClasspath/_global/streams/export
+#	new file:   Hello World/target/streams/runtime/unmanagedClasspath/_global/streams/export
+#	new file:   Hello World/target/streams/runtime/unmanagedJars/_global/streams/export
+#	new file:   Hello World/target/streams/test/externalDependencyClasspath/_global/streams/export
+#	new file:   Hello World/target/streams/test/managedClasspath/_global/streams/export
+#	new file:   Hello World/target/streams/test/unmanagedClasspath/_global/streams/export
+#	new file:   Hello World/target/streams/test/unmanagedJars/_global/streams/export
+#	new file:   Test/.classpath
+#	new file:   Test/.project
+#	new file:   Test/.settings/org.eclipse.jdt.core.prefs
+#	new file:   Test/bin/module-info.class
+#	new file:   Test/src/module-info.java
+#	new file:   Week1/.idea/.gitignore
+#	new file:   Week1/.idea/codeStyles/Project.xml
+#	new file:   Week1/.idea/codeStyles/codeStyleConfig.xml
+#	new file:   Week1/.idea/description.html
+#	new file:   Week1/.idea/encodings.xml
+#	new file:   Week1/.idea/misc.xml
+#	new file:   Week1/.idea/modules.xml
+#	new file:   Week1/.idea/project-template.xml
+#	new file:   Week1/Week1.iml
+#	new file:   Week1/src/com/company/Main.java
+#	new file:   example.zip
+#	new file:   example/.bloop/example-test.json
+#	new file:   example/.bloop/example.json
+#	new file:   example/.externalToolBuilders/Scala Build Tool.launch
+#	new file:   example/.idea/.gitignore
+#	new file:   example/.idea/.name
+#	new file:   example/.idea/codeStyles/Project.xml
+#	new file:   example/.idea/codeStyles/codeStyleConfig.xml
+#	new file:   example/.idea/libraries/sbt__com_novocode_junit_interface_0_11_jar.xml
+#	new file:   example/.idea/libraries/sbt__junit_junit_4_11_jar.xml
+#	new file:   example/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_3_jar.xml
+#	new file:   example/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_0_jar.xml
+#	new file:   example/.idea/libraries/sbt__org_scala_sbt_test_interface_1_0_jar.xml
+#	new file:   example/.idea/misc.xml
+#	new file:   example/.idea/modules.xml
+#	new file:   example/.idea/modules/progfun1-example-build.iml
+#	new file:   example/.idea/modules/progfun1-example.iml
+#	new file:   example/.idea/sbt.xml
+#	new file:   example/.idea/scala_compiler.xml
+#	new file:   example/.metals/metals.h2.db
+#	new file:   example/.metals/metals.log
+#	new file:   example/.project
+#	new file:   example/.scalafix.conf
+#	new file:   example/assignment.sbt
+#	new file:   example/build.sbt
+#	new file:   example/project/.bloop/example-build.json
+#	new file:   example/project/MOOCSettings.scala
+#	new file:   example/project/StudentTasks.scala
+#	new file:   example/project/build.properties
+#	new file:   example/project/buildSettings.sbt
+#	new file:   example/project/plugins.sbt
+#	new file:   example/project/project/target/config-classes/$07febd576cb062656ac2$.class
+#	new file:   example/project/project/target/config-classes/$07febd576cb062656ac2.cache
+#	new file:   example/project/project/target/config-classes/$07febd576cb062656ac2.class
+#	new file:   example/project/project/target/config-classes/$636018b1f1d517347849$.class
+#	new file:   example/project/project/target/config-classes/$636018b1f1d517347849.cache
+#	new file:   example/project/project/target/config-classes/$636018b1f1d517347849.class
+#	new file:   example/project/project/target/config-classes/$89b6703c98ef77959c4c$.class
+#	new file:   example/project/project/target/config-classes/$89b6703c98ef77959c4c.cache
+#	new file:   example/project/project/target/config-classes/$89b6703c98ef77959c4c.class
+#	new file:   example/project/project/target/config-classes/$9682c4584c8f4a6142c6$.class
+#	new file:   example/project/project/target/config-classes/$9682c4584c8f4a6142c6.cache
+#	new file:   example/project/project/target/config-classes/$9682c4584c8f4a6142c6.class
+#	new file:   example/project/project/target/config-classes/$9aa7e8c0e4946f8df8f9$.class
+#	new file:   example/project/project/target/config-classes/$9aa7e8c0e4946f8df8f9.cache
+#	new file:   example/project/project/target/config-classes/$9aa7e8c0e4946f8df8f9.class
+#	new file:   example/project/project/target/config-classes/$9ffc6d4c88b9f7a3a414$.class
+#	new file:   example/project/project/target/config-classes/$9ffc6d4c88b9f7a3a414.cache
+#	new file:   example/project/project/target/config-classes/$9ffc6d4c88b9f7a3a414.class
+#	new file:   example/project/project/target/config-classes/$cf76038b4d0a74b3dccb$.class
+#	new file:   example/project/project/target/config-classes/$cf76038b4d0a74b3dccb.cache
+#	new file:   example/project/project/target/config-classes/$cf76038b4d0a74b3dccb.class
+#	new file:   example/project/target/.sbt-compilation-infos/example-compile/.sbt-idea-lock
+#	new file:   example/project/target/config-classes/$0827966963a6b9d67507$.class
+#	new file:   example/project/target/config-classes/$0827966963a6b9d67507.cache
+#	new file:   example/project/target/config-classes/$0827966963a6b9d67507.class
+#	new file:   example/project/target/config-classes/$087511f7b97668dfb424$.class
+#	new file:   example/project/target/config-classes/$087511f7b97668dfb424.cache
+#	new file:   example/project/target/config-classes/$087511f7b97668dfb424.class
+#	new file:   example/project/target/config-classes/$0e47e3085be860da6beb$.class
+#	new file:   example/project/target/config-classes/$0e47e3085be860da6beb.cache
+#	new file:   example/project/target/config-classes/$0e47e3085be860da6beb.class
+#	new file:   example/project/target/config-classes/$444397264f141d5b4284$.class
+#	new file:   example/project/target/config-classes/$444397264f141d5b4284.cache
+#	new file:   example/project/target/config-classes/$444397264f141d5b4284.class
+#	new file:   example/project/target/config-classes/$6f0c246ff0579779f2f0$.class
+#	new file:   example/project/target/config-classes/$6f0c246ff0579779f2f0.cache
+#	new file:   example/project/target/config-classes/$6f0c246ff0579779f2f0.class
+#	new file:   example/project/target/config-classes/$b01fde8f0db8dd0d66d9$.class
+#	new file:   example/project/target/config-classes/$b01fde8f0db8dd0d66d9.cache
+#	new file:   example/project/target/config-classes/$b01fde8f0db8dd0d66d9.class
+#	new file:   example/project/target/config-classes/$c009a6e13c669b2478b6$.class
+#	new file:   example/project/target/config-classes/$c009a6e13c669b2478b6.cache
+#	new file:   example/project/target/config-classes/$c009a6e13c669b2478b6.class
+#	new file:   example/project/target/config-classes/$c64b165b6f646cfd1ff2$.class
+#	new file:   example/project/target/config-classes/$c64b165b6f646cfd1ff2.cache
+#	new file:   example/project/target/config-classes/$c64b165b6f646cfd1ff2.class
+#	new file:   example/project/target/config-classes/$d771deed5da28abeddb7$.class
+#	new file:   example/project/target/config-classes/$d771deed5da28abeddb7.cache
+#	new file:   example/project/target/config-classes/$d771deed5da28abeddb7.class
+#	new file:   example/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/CourseraId$.class
+#	new file:   example/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/CourseraId.class
+#	new file:   example/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/MOOCSettings$.class
+#	new file:   example/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/MOOCSettings$autoImport$.class
+#	new file:   example/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/MOOCSettings.class
+#	new file:   example/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/StudentTasks$.class
+#	new file:   example/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/StudentTasks$autoImport$.class
+#	new file:   example/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/StudentTasks.class
+#	new file:   example/project/target/scala-2.12/sbt-1.0/classes/sbt/sbt.autoplugins
+#	new file:   example/project/target/scala-2.12/sbt-1.0/resolution-cache/default/example-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties
+#	new file:   example/project/target/scala-2.12/sbt-1.0/resolution-cache/default/example-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml
+#	new file:   example/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-example-build-compile-internal.xml
+#	new file:   example/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-example-build-compile.xml
+#	new file:   example/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-example-build-optional.xml
+#	new file:   example/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-example-build-plugin.xml
+#	new file:   example/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-example-build-pom.xml
+#	new file:   example/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-example-build-provided.xml
+#	new file:   example/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-example-build-runtime-internal.xml
+#	new file:   example/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-example-build-runtime.xml
+#	new file:   example/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-example-build-scala-tool.xml
+#	new file:   example/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-example-build-test-internal.xml
+#	new file:   example/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-example-build-test.xml
+#	new file:   example/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.css
+#	new file:   example/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.xsl
+#	new file:   example/project/target/scala-2.12/sbt-1.0/resource_managed/main/sbt/sbt.autoplugins
+#	new file:   example/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs
+#	new file:   example/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output
+#	new file:   example/project/target/streams/$global/$global/$global/streams/out
+#	new file:   example/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp
+#	new file:   example/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp
+#	new file:   example/project/target/streams/$global/ivyConfiguration/$global/streams/out
+#	new file:   example/project/target/streams/$global/ivySbt/$global/streams/out
+#	new file:   example/project/target/streams/$global/projectDescriptors/$global/streams/out
+#	new file:   example/project/target/streams/$global/update/$global/streams/out
+#	new file:   example/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs
+#	new file:   example/project/target/streams/$global/update/$global/streams/update_cache_2.12/output
+#	new file:   example/project/target/streams/_global/_global/_global/streams/out
+#	new file:   example/project/target/streams/_global/_global/csrLogger/_global/streams/out
+#	new file:   example/project/target/streams/_global/csrConfiguration/_global/streams/out
+#	new file:   example/project/target/streams/_global/csrProject/_global/streams/out
+#	new file:   example/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp
+#	new file:   example/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp
+#	new file:   example/project/target/streams/_global/ivyConfiguration/_global/streams/out
+#	new file:   example/project/target/streams/_global/ivySbt/_global/streams/out
+#	new file:   example/project/target/streams/_global/moduleSettings/_global/streams/out
+#	new file:   example/project/target/streams/_global/projectDescriptors/_global/streams/out
+#	new file:   example/project/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out
+#	new file:   example/project/target/streams/_global/update/_global/streams/out
+#	new file:   example/project/target/streams/compile/$global/$global/discoveredMainClasses/data
+#	new file:   example/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous
+#	new file:   example/project/target/streams/compile/_global/_global/compileOutputs/previous
+#	new file:   example/project/target/streams/compile/_global/_global/compileSourceFileInputs/previous
+#	new file:   example/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous
+#	new file:   example/project/target/streams/compile/_global/_global/discoveredMainClasses/data
+#	new file:   example/project/target/streams/compile/_global/_global/managedSourcePaths/previous
+#	new file:   example/project/target/streams/compile/bloopGenerate/$global/streams/out
+#	new file:   example/project/target/streams/compile/compile/$global/streams/out
+#	new file:   example/project/target/streams/compile/compile/_global/streams/out
+#	new file:   example/project/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip
+#	new file:   example/project/target/streams/compile/compileIncSetup/_global/streams/inc_compile_2.12.zip
+#	new file:   example/project/target/streams/compile/compileIncremental/$global/streams/export
+#	new file:   example/project/target/streams/compile/compileIncremental/$global/streams/out
+#	new file:   example/project/target/streams/compile/compileIncremental/_global/streams/export
+#	new file:   example/project/target/streams/compile/compileIncremental/_global/streams/out
+#	new file:   example/project/target/streams/compile/copyResources/$global/streams/copy-resources
+#	new file:   example/project/target/streams/compile/copyResources/$global/streams/out
+#	new file:   example/project/target/streams/compile/copyResources/_global/streams/copy-resources
+#	new file:   example/project/target/streams/compile/copyResources/_global/streams/out
+#	new file:   example/project/target/streams/compile/dependencyClasspath/$global/streams/export
+#	new file:   example/project/target/streams/compile/dependencyClasspath/_global/streams/export
+#	new file:   example/project/target/streams/compile/exportedProducts/$global/streams/export
+#	new file:   example/project/target/streams/compile/exportedProducts/_global/streams/export
+#	new file:   example/project/target/streams/compile/externalDependencyClasspath/$global/streams/export
+#	new file:   example/project/target/streams/compile/externalDependencyClasspath/_global/streams/export
+#	new file:   example/project/target/streams/compile/internalDependencyClasspath/$global/streams/export
+#	new file:   example/project/target/streams/compile/internalDependencyClasspath/_global/streams/export
+#	new file:   example/project/target/streams/compile/managedClasspath/$global/streams/export
+#	new file:   example/project/target/streams/compile/managedClasspath/_global/streams/export
+#	new file:   example/project/target/streams/compile/unmanagedClasspath/$global/streams/export
+#	new file:   example/project/target/streams/compile/unmanagedClasspath/_global/streams/export
+#	new file:   example/project/target/streams/compile/unmanagedJars/$global/streams/export
+#	new file:   example/project/target/streams/compile/unmanagedJars/_global/streams/export
+#	new file:   example/project/target/streams/it/bloopGenerate/$global/streams/out
+#	new file:   example/project/target/streams/runtime/dependencyClasspath/$global/streams/export
+#	new file:   example/project/target/streams/runtime/dependencyClasspath/_global/streams/export
+#	new file:   example/project/target/streams/runtime/exportedProducts/$global/streams/export
+#	new file:   example/project/target/streams/runtime/exportedProducts/_global/streams/export
+#	new file:   example/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export
+#	new file:   example/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export
+#	new file:   example/project/target/streams/runtime/fullClasspath/$global/streams/export
+#	new file:   example/project/target/streams/runtime/fullClasspath/_global/streams/export
+#	new file:   example/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export
+#	new file:   example/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export
+#	new file:   example/project/target/streams/runtime/managedClasspath/$global/streams/export
+#	new file:   example/project/target/streams/runtime/managedClasspath/_global/streams/export
+#	new file:   example/project/target/streams/runtime/unmanagedClasspath/$global/streams/export
+#	new file:   example/project/target/streams/runtime/unmanagedClasspath/_global/streams/export
+#	new file:   example/project/target/streams/runtime/unmanagedJars/$global/streams/export
+#	new file:   example/project/target/streams/runtime/unmanagedJars/_global/streams/export
+#	new file:   example/project/target/streams/test/bloopGenerate/$global/streams/out
+#	new file:   example/src/main/scala/example/Lists.scala
+#	new file:   example/src/test/scala/example/ListsSuite.scala
+#	new file:   example/target/.history
+#	new file:   example/target/scala-2.13/classes/example/Lists$.class
+#	new file:   example/target/scala-2.13/classes/example/Lists.class
+#	new file:   example/target/scala-2.13/progfun1-example-without-resources_2.13-0.1.0-SNAPSHOT.jar
+#	new file:   example/target/scala-2.13/progfun1-example_2.13-0.1.0-SNAPSHOT-sources.jar
+#	new file:   example/target/scala-2.13/resolution-cache/org.scala-sbt.temp/temp-module-52f238aede5a1d8d7a484c2bec27a144810e2ac0/1.2.5/resolved.xml.properties
+#	new file:   example/target/scala-2.13/resolution-cache/org.scala-sbt.temp/temp-module-52f238aede5a1d8d7a484c2bec27a144810e2ac0/1.2.5/resolved.xml.xml
+#	new file:   example/target/scala-2.13/resolution-cache/reports/ivy-report.css
+#	new file:   example/target/scala-2.13/resolution-cache/reports/ivy-report.xsl
+#	new file:   example/target/scala-2.13/resolution-cache/reports/org.scala-sbt.temp-temp-module-52f238aede5a1d8d7a484c2bec27a144810e2ac0-compile.xml
+#	new file:   example/target/scala-2.13/resolution-cache/reports/org.scala-sbt.temp-temp-module-52f238aede5a1d8d7a484c2bec27a144810e2ac0-optional.xml
+#	new file:   example/target/scala-2.13/resolution-cache/reports/org.scala-sbt.temp-temp-module-52f238aede5a1d8d7a484c2bec27a144810e2ac0-provided.xml
+#	new file:   example/target/scala-2.13/resolution-cache/reports/org.scala-sbt.temp-temp-module-52f238aede5a1d8d7a484c2bec27a144810e2ac0-runtime.xml
+#	new file:   example/target/scala-2.13/resolution-cache/reports/org.scala-sbt.temp-temp-module-52f238aede5a1d8d7a484c2bec27a144810e2ac0-test.xml
+#	new file:   example/target/scala-2.13/submission.zip
+#	new file:   example/target/scala-2.13/test-classes/example/ListsSuite.class
+#	new file:   example/target/streams/$global/$global/$global/streams/out
+#	new file:   example/target/streams/$global/$global/dumpStructure/$global/streams/out
+#	new file:   example/target/streams/$global/console/$global/streams/out
+#	new file:   example/target/streams/$global/coursierArtifacts/$global/streams/out
+#	new file:   example/target/streams/$global/coursierClassifiersArtifacts/$global/streams/out
+#	new file:   example/target/streams/$global/coursierResolutions/$global/streams/out
+#	new file:   example/target/streams/$global/ivyConfiguration/$global/streams/out
+#	new file:   example/target/streams/$global/projectDescriptors/$global/streams/out
+#	new file:   example/target/streams/$global/submit/$global/streams/out
+#	new file:   example/target/streams/$global/update/$global/streams/out
+#	new file:   example/target/streams/$global/updateClassifiers/$global/streams/out
+#	new file:   example/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous
+#	new file:   example/target/streams/_global/_global/checkBuildSources/_global/streams/out
+#	new file:   example/target/streams/_global/_global/csrLogger/_global/streams/out
+#	new file:   example/target/streams/_global/coursierResolutions/_global/streams/out
+#	new file:   example/target/streams/_global/projectDescriptors/_global/streams/out
+#	new file:   example/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out
+#	new file:   example/target/streams/compile/$global/$global/discoveredMainClasses/data
+#	new file:   example/target/streams/compile/_global/_global/compileBinaryFileInputs/previous
+#	new file:   example/target/streams/compile/_global/_global/compileSourceFileInputs/previous
+#	new file:   example/target/streams/compile/_global/_global/managedSourcePaths/previous
+#	new file:   example/target/streams/compile/bloopGenerate/$global/streams/out
+#	new file:   example/target/streams/compile/compile/$global/streams/out
+#	new file:   example/target/streams/compile/compile/_global/streams/out
+#	new file:   example/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.13.zip
+#	new file:   example/target/streams/compile/compileIncremental/$global/streams/export
+#	new file:   example/target/streams/compile/compileIncremental/$global/streams/out
+#	new file:   example/target/streams/compile/console/$global/streams/export
+#	new file:   example/target/streams/compile/console/$global/streams/out
+#	new file:   example/target/streams/compile/copyResources/$global/streams/copy-resources
+#	new file:   example/target/streams/compile/copyResources/$global/streams/out
+#	new file:   example/target/streams/compile/copyResources/_global/streams/copy-resources
+#	new file:   example/target/streams/compile/copyResources/_global/streams/out
+#	new file:   example/target/streams/compile/dependencyClasspath/$global/streams/export
+#	new file:   example/target/streams/compile/exportedProducts/$global/streams/export
+#	new file:   example/target/streams/compile/externalDependencyClasspath/$global/streams/export
+#	new file:   example/target/streams/compile/fullClasspath/$global/streams/export
+#	new file:   example/target/streams/compile/internalDependencyClasspath/$global/streams/export
+#	new file:   example/target/streams/compile/managedClasspath/$global/streams/export
+#	new file:   example/target/streams/compile/packageBinWithoutResources/$global/streams/inputs
+#	new file:   example/target/streams/compile/packageBinWithoutResources/$global/streams/out
+#	new file:   example/target/streams/compile/packageBinWithoutResources/$global/streams/output
+#	new file:   example/target/streams/compile/packageSourcesOnly/$global/streams/inputs
+#	new file:   example/target/streams/compile/packageSourcesOnly/$global/streams/out
+#	new file:   example/target/streams/compile/packageSourcesOnly/$global/streams/output
+#	new file:   example/target/streams/compile/unmanagedClasspath/$global/streams/export
+#	new file:   example/target/streams/compile/unmanagedClasspath/_global/streams/export
+#	new file:   example/target/streams/compile/unmanagedJars/$global/streams/export
+#	new file:   example/target/streams/compile/unmanagedJars/_global/streams/export
+#	new file:   example/target/streams/it/bloopGenerate/$global/streams/out
+#	new file:   example/target/streams/runtime/externalDependencyClasspath/$global/streams/export
+#	new file:   example/target/streams/runtime/managedClasspath/$global/streams/export
+#	new file:   example/target/streams/runtime/unmanagedClasspath/$global/streams/export
+#	new file:   example/target/streams/runtime/unmanagedJars/$global/streams/export
+#	new file:   example/target/streams/test/bloopGenerate/$global/streams/out
+#	new file:   example/target/streams/test/externalDependencyClasspath/$global/streams/export
+#	new file:   example/target/streams/test/managedClasspath/$global/streams/export
+#	new file:   example/target/streams/test/unmanagedClasspath/$global/streams/export
+#	new file:   example/target/streams/test/unmanagedJars/$global/streams/export
+#	new file:   forcomp.zip
+#	new file:   funsets.zip
+#	new file:   funsets/.idea/.gitignore
+#	new file:   funsets/.idea/.name
+#	new file:   funsets/.idea/codeStyles/Project.xml
+#	new file:   funsets/.idea/codeStyles/codeStyleConfig.xml
+#	new file:   funsets/.idea/libraries/sbt__com_novocode_junit_interface_0_11_jar.xml
+#	new file:   funsets/.idea/libraries/sbt__junit_junit_4_11_jar.xml
+#	new file:   funsets/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_3_jar.xml
+#	new file:   funsets/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_0_jar.xml
+#	new file:   funsets/.idea/libraries/sbt__org_scala_sbt_test_interface_1_0_jar.xml
+#	new file:   funsets/.idea/misc.xml
+#	new file:   funsets/.idea/modules.xml
+#	new file:   funsets/.idea/modules/funsets_8816-build.iml
+#	new file:   funsets/.idea/modules/funsets_8816.iml
+#	new file:   funsets/.idea/modules/progfun1-funsets-build.iml
+#	new file:   funsets/.idea/modules/progfun1-funsets.iml
+#	new file:   funsets/.idea/sbt.xml
+#	new file:   funsets/.idea/scala_compiler.xml
+#	new file:   funsets/.scalafix.conf
+#	new file:   funsets/assignment.sbt
+#	new file:   funsets/build.sbt
+#	new file:   funsets/project/MOOCSettings.scala
+#	new file:   funsets/project/StudentTasks.scala
+#	new file:   funsets/project/build.properties
+#	new file:   funsets/project/buildSettings.sbt
+#	new file:   funsets/project/plugins.sbt
+#	new file:   funsets/project/project/target/config-classes/$1531918ecf1f3bd694ce$.class
+#	new file:   funsets/project/project/target/config-classes/$1531918ecf1f3bd694ce.cache
+#	new file:   funsets/project/project/target/config-classes/$1531918ecf1f3bd694ce.class
+#	new file:   funsets/project/project/target/config-classes/$503793bce4f23daa04bb$.class
+#	new file:   funsets/project/project/target/config-classes/$503793bce4f23daa04bb.cache
+#	new file:   funsets/project/project/target/config-classes/$503793bce4f23daa04bb.class
+#	new file:   funsets/project/project/target/config-classes/$812adcda3b47ab0394e7$.class
+#	new file:   funsets/project/project/target/config-classes/$812adcda3b47ab0394e7.cache
+#	new file:   funsets/project/project/target/config-classes/$812adcda3b47ab0394e7.class
+#	new file:   funsets/project/project/target/config-classes/$895429578735bb7a3f8c$.class
+#	new file:   funsets/project/project/target/config-classes/$895429578735bb7a3f8c.cache
+#	new file:   funsets/project/project/target/config-classes/$895429578735bb7a3f8c.class
+#	new file:   funsets/project/project/target/config-classes/$abc06d136b781bb5bfe5$.class
+#	new file:   funsets/project/project/target/config-classes/$abc06d136b781bb5bfe5.cache
+#	new file:   funsets/project/project/target/config-classes/$abc06d136b781bb5bfe5.class
+#	new file:   funsets/project/project/target/config-classes/$e0862bb53e448912bdf6$.class
+#	new file:   funsets/project/project/target/config-classes/$e0862bb53e448912bdf6.cache
+#	new file:   funsets/project/project/target/config-classes/$e0862bb53e448912bdf6.class
+#	new file:   funsets/project/target/.sbt-compilation-infos/funsets-compile/.sbt-idea-lock
+#	new file:   funsets/project/target/config-classes/$0898d2407ed07fcac545$.class
+#	new file:   funsets/project/target/config-classes/$0898d2407ed07fcac545.cache
+#	new file:   funsets/project/target/config-classes/$0898d2407ed07fcac545.class
+#	new file:   funsets/project/target/config-classes/$68d653128c15e5db5711$.class
+#	new file:   funsets/project/target/config-classes/$68d653128c15e5db5711.cache
+#	new file:   funsets/project/target/config-classes/$68d653128c15e5db5711.class
+#	new file:   funsets/project/target/config-classes/$7dc7923be7de71da6fc0$.class
+#	new file:   funsets/project/target/config-classes/$7dc7923be7de71da6fc0.cache
+#	new file:   funsets/project/target/config-classes/$7dc7923be7de71da6fc0.class
+#	new file:   funsets/project/target/config-classes/$81804a2df5e75586c0fe$.class
+#	new file:   funsets/project/target/config-classes/$81804a2df5e75586c0fe.cache
+#	new file:   funsets/project/target/config-classes/$81804a2df5e75586c0fe.class
+#	new file:   funsets/project/target/config-classes/$923a51de5a29aabfe476$.class
+#	new file:   funsets/project/target/config-classes/$923a51de5a29aabfe476.cache
+#	new file:   funsets/project/target/config-classes/$923a51de5a29aabfe476.class
+#	new file:   funsets/project/target/config-classes/$bbae840613f359907c95$.class
+#	new file:   funsets/project/target/config-classes/$bbae840613f359907c95.cache
+#	new file:   funsets/project/target/config-classes/$bbae840613f359907c95.class
+#	new file:   funsets/project/target/config-classes/$d4237017cf59a5551404$.class
+#	new file:   funsets/project/target/config-classes/$d4237017cf59a5551404.cache
+#	new file:   funsets/project/target/config-classes/$d4237017cf59a5551404.class
+#	new file:   funsets/project/target/config-classes/$d5c8845d79dbe0fd53a6$.class
+#	new file:   funsets/project/target/config-classes/$d5c8845d79dbe0fd53a6.cache
+#	new file:   funsets/project/target/config-classes/$d5c8845d79dbe0fd53a6.class
+#	new file:   funsets/project/target/config-classes/$f10964209358acc6a5c5$.class
+#	new file:   funsets/project/target/config-classes/$f10964209358acc6a5c5.cache
+#	new file:   funsets/project/target/config-classes/$f10964209358acc6a5c5.class
+#	new file:   funsets/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/CourseraId$.class
+#	new file:   funsets/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/CourseraId.class
+#	new file:   funsets/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/MOOCSettings$.class
+#	new file:   funsets/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/MOOCSettings$autoImport$.class
+#	new file:   funsets/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/MOOCSettings.class
+#	new file:   funsets/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/StudentTasks$.class
+#	new file:   funsets/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/StudentTasks$autoImport$.class
+#	new file:   funsets/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/StudentTasks.class
+#	new file:   funsets/project/target/scala-2.12/sbt-1.0/classes/sbt/sbt.autoplugins
+#	new file:   funsets/project/target/scala-2.12/sbt-1.0/resource_managed/main/sbt/sbt.autoplugins
+#	new file:   funsets/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs
+#	new file:   funsets/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output
+#	new file:   funsets/project/target/streams/_global/_global/_global/streams/out
+#	new file:   funsets/project/target/streams/_global/_global/csrLogger/_global/streams/out
+#	new file:   funsets/project/target/streams/_global/csrConfiguration/_global/streams/out
+#	new file:   funsets/project/target/streams/_global/csrProject/_global/streams/out
+#	new file:   funsets/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp
+#	new file:   funsets/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp
+#	new file:   funsets/project/target/streams/_global/ivyConfiguration/_global/streams/out
+#	new file:   funsets/project/target/streams/_global/ivySbt/_global/streams/out
+#	new file:   funsets/project/target/streams/_global/moduleSettings/_global/streams/out
+#	new file:   funsets/project/target/streams/_global/projectDescriptors/_global/streams/out
+#	new file:   funsets/project/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out
+#	new file:   funsets/project/target/streams/_global/update/_global/streams/out
+#	new file:   funsets/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous
+#	new file:   funsets/project/target/streams/compile/_global/_global/compileOutputs/previous
+#	new file:   funsets/project/target/streams/compile/_global/_global/compileSourceFileInputs/previous
+#	new file:   funsets/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous
+#	new file:   funsets/project/target/streams/compile/_global/_global/discoveredMainClasses/data
+#	new file:   funsets/project/target/streams/compile/_global/_global/managedSourcePaths/previous
+#	new file:   funsets/project/target/streams/compile/compile/_global/streams/out
+#	new file:   funsets/project/target/streams/compile/compileIncSetup/_global/streams/inc_compile_2.12.zip
+#	new file:   funsets/project/target/streams/compile/compileIncremental/_global/streams/export
+#	new file:   funsets/project/target/streams/compile/compileIncremental/_global/streams/out
+#	new file:   funsets/project/target/streams/compile/copyResources/_global/streams/copy-resources
+#	new file:   funsets/project/target/streams/compile/copyResources/_global/streams/out
+#	new file:   funsets/project/target/streams/compile/dependencyClasspath/_global/streams/export
+#	new file:   funsets/project/target/streams/compile/exportedProducts/_global/streams/export
+#	new file:   funsets/project/target/streams/compile/externalDependencyClasspath/_global/streams/export
+#	new file:   funsets/project/target/streams/compile/internalDependencyClasspath/_global/streams/export
+#	new file:   funsets/project/target/streams/compile/managedClasspath/_global/streams/export
+#	new file:   funsets/project/target/streams/compile/unmanagedClasspath/_global/streams/export
+#	new file:   funsets/project/target/streams/compile/unmanagedJars/_global/streams/export
+#	new file:   funsets/project/target/streams/runtime/dependencyClasspath/_global/streams/export
+#	new file:   funsets/project/target/streams/runtime/exportedProducts/_global/streams/export
+#	new file:   funsets/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export
+#	new file:   funsets/project/target/streams/runtime/fullClasspath/_global/streams/export
+#	new file:   funsets/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export
+#	new file:   funsets/project/target/streams/runtime/managedClasspath/_global/streams/export
+#	new file:   funsets/project/target/streams/runtime/unmanagedClasspath/_global/streams/export
+#	new file:   funsets/project/target/streams/runtime/unmanagedJars/_global/streams/export
+#	new file:   funsets/src/main/scala/funsets/FunSets.scala
+#	new file:   funsets/src/main/scala/funsets/FunSetsInterface.scala
+#	new file:   funsets/src/main/scala/funsets/Main.scala
+#	new file:   funsets/src/test/scala/funsets/FunSetSuite.scala
+#	new file:   funsets/target/.history
+#	new file:   funsets/target/dummy/funsets/FunSets$.class
+#	new file:   funsets/target/dummy/funsets/FunSets.class
+#	new file:   funsets/target/dummy/funsets/FunSetsInterface.class
+#	new file:   funsets/target/dummy/funsets/Main$.class
+#	new file:   funsets/target/dummy/funsets/Main$delayedInit$body.class
+#	new file:   funsets/target/dummy/funsets/Main.class
+#	new file:   funsets/target/scala-2.13/classes/funsets/FunSets$.class
+#	new file:   funsets/target/scala-2.13/classes/funsets/FunSets.class
+#	new file:   funsets/target/scala-2.13/classes/funsets/FunSetsInterface.class
+#	new file:   funsets/target/scala-2.13/classes/funsets/Main$.class
+#	new file:   funsets/target/scala-2.13/classes/funsets/Main$delayedInit$body.class
+#	new file:   funsets/target/scala-2.13/classes/funsets/Main.class
+#	new file:   funsets/target/scala-2.13/progfun1-funsets-without-resources_2.13-0.1.0-SNAPSHOT.jar
+#	new file:   funsets/target/scala-2.13/progfun1-funsets_2.13-0.1.0-SNAPSHOT-sources.jar
+#	new file:   funsets/target/scala-2.13/submission.zip
+#	new file:   funsets/target/scala-2.13/update/update_cache_2.13/inputs
+#	new file:   funsets/target/scala-2.13/update/update_cache_2.13/output
+#	new file:   funsets/target/streams/_global/_global/_global/streams/out
+#	new file:   funsets/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous
+#	new file:   funsets/target/streams/_global/_global/checkBuildSources/_global/streams/out
+#	new file:   funsets/target/streams/_global/_global/csrLogger/_global/streams/out
+#	new file:   funsets/target/streams/_global/_global/dumpStructure/_global/streams/out
+#	new file:   funsets/target/streams/_global/coursierResolutions/_global/streams/out
+#	new file:   funsets/target/streams/_global/csrConfiguration/_global/streams/out
+#	new file:   funsets/target/streams/_global/csrProject/_global/streams/out
+#	new file:   funsets/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/input_dsp
+#	new file:   funsets/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/output_dsp
+#	new file:   funsets/target/streams/_global/ivyConfiguration/_global/streams/out
+#	new file:   funsets/target/streams/_global/ivySbt/_global/streams/out
+#	new file:   funsets/target/streams/_global/moduleSettings/_global/streams/out
+#	new file:   funsets/target/streams/_global/projectDescriptors/_global/streams/out
+#	new file:   funsets/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out
+#	new file:   funsets/target/streams/_global/submit/_global/streams/out
+#	new file:   funsets/target/streams/_global/update/_global/streams/out
+#	new file:   funsets/target/streams/_global/updateClassifiers/_global/streams/out
+#	new file:   funsets/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/inputs
+#	new file:   funsets/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output
+#	new file:   funsets/target/streams/compile/_global/_global/compileBinaryFileInputs/previous
+#	new file:   funsets/target/streams/compile/_global/_global/compileOutputs/previous
+#	new file:   funsets/target/streams/compile/_global/_global/compileSourceFileInputs/previous
+#	new file:   funsets/target/streams/compile/_global/_global/dependencyClasspathFiles/previous
+#	new file:   funsets/target/streams/compile/_global/_global/discoveredMainClasses/data
+#	new file:   funsets/target/streams/compile/_global/_global/managedSourcePaths/previous
+#	new file:   funsets/target/streams/compile/compile/_global/streams/out
+#	new file:   funsets/target/streams/compile/compileIncSetup/_global/streams/inc_compile_2.13.zip
+#	new file:   funsets/target/streams/compile/compileIncremental/_global/streams/export
+#	new file:   funsets/target/streams/compile/compileIncremental/_global/streams/out
+#	new file:   funsets/target/streams/compile/copyResources/_global/streams/copy-resources
+#	new file:   funsets/target/streams/compile/copyResources/_global/streams/out
+#	new file:   funsets/target/streams/compile/dependencyClasspath/_global/streams/export
+#	new file:   funsets/target/streams/compile/externalDependencyClasspath/_global/streams/export
+#	new file:   funsets/target/streams/compile/internalDependencyClasspath/_global/streams/export
+#	new file:   funsets/target/streams/compile/managedClasspath/_global/streams/export
+#	new file:   funsets/target/streams/compile/packageBinWithoutResources/_global/streams/inputs
+#	new file:   funsets/target/streams/compile/packageBinWithoutResources/_global/streams/out
+#	new file:   funsets/target/streams/compile/packageBinWithoutResources/_global/streams/output
+#	new file:   funsets/target/streams/compile/packageSourcesOnly/_global/streams/inputs
+#	new file:   funsets/target/streams/compile/packageSourcesOnly/_global/streams/out
+#	new file:   funsets/target/streams/compile/packageSourcesOnly/_global/streams/output
+#	new file:   funsets/target/streams/compile/unmanagedClasspath/_global/streams/export
+#	new file:   funsets/target/streams/compile/unmanagedJars/_global/streams/export
+#	new file:   funsets/target/streams/runtime/externalDependencyClasspath/_global/streams/export
+#	new file:   funsets/target/streams/runtime/managedClasspath/_global/streams/export
+#	new file:   funsets/target/streams/runtime/unmanagedClasspath/_global/streams/export
+#	new file:   funsets/target/streams/runtime/unmanagedJars/_global/streams/export
+#	new file:   funsets/target/streams/test/externalDependencyClasspath/_global/streams/export
+#	new file:   funsets/target/streams/test/managedClasspath/_global/streams/export
+#	new file:   funsets/target/streams/test/unmanagedClasspath/_global/streams/export
+#	new file:   funsets/target/streams/test/unmanagedJars/_global/streams/export
+#	new file:   objsets.zip
+#	new file:   objsets/.project
+#	new file:   objsets/.scalafix.conf
+#	new file:   objsets/assignment.sbt
+#	new file:   objsets/build.sbt
+#	new file:   objsets/project/MOOCSettings.scala
+#	new file:   objsets/project/StudentTasks.scala
+#	new file:   objsets/project/build.properties
+#	new file:   objsets/project/buildSettings.sbt
+#	new file:   objsets/project/plugins.sbt
+#	new file:   objsets/src/main/scala/objsets/TweetData.scala
+#	new file:   objsets/src/main/scala/objsets/TweetReader.scala
+#	new file:   objsets/src/main/scala/objsets/TweetSet.scala
+#	new file:   objsets/src/main/scala/objsets/TweetSetInterface.scala
+#	new file:   objsets/src/test/scala/objsets/TweetSetSuite.scala
+#	new file:   old_funsets/.idea/.gitignore
+#	new file:   old_funsets/.idea/codeStyles/Project.xml
+#	new file:   old_funsets/.idea/codeStyles/codeStyleConfig.xml
+#	new file:   old_funsets/.idea/libraries/scala_sdk_2_13_2.xml
+#	new file:   old_funsets/.idea/misc.xml
+#	new file:   old_funsets/.idea/modules.xml
+#	new file:   old_funsets/.idea/modules/funsets_3249-build.iml
+#	new file:   old_funsets/.idea/modules/funsets_3249.iml
+#	new file:   old_funsets/.idea/sbt.xml
+#	new file:   old_funsets/.idea/scala_compiler.xml
+#	new file:   old_funsets/.idea/scala_settings.xml
+#	new file:   old_funsets/.project
+#	new file:   old_funsets/.scalafix.conf
+#	new file:   old_funsets/assignment.sbt
+#	new file:   old_funsets/build.sbt
+#	new file:   old_funsets/project/MOOCSettings.scala
+#	new file:   old_funsets/project/StudentTasks.scala
+#	new file:   old_funsets/project/build.properties
+#	new file:   old_funsets/project/buildSettings.sbt
+#	new file:   old_funsets/project/plugins.sbt
+#	new file:   old_funsets/project/project/target/config-classes/$387e93e0d39fdd11d397$.class
+#	new file:   old_funsets/project/project/target/config-classes/$387e93e0d39fdd11d397.cache
+#	new file:   old_funsets/project/project/target/config-classes/$387e93e0d39fdd11d397.class
+#	new file:   old_funsets/project/project/target/config-classes/$39eece8caf9c25588e0c$.class
+#	new file:   old_funsets/project/project/target/config-classes/$39eece8caf9c25588e0c.cache
+#	new file:   old_funsets/project/project/target/config-classes/$39eece8caf9c25588e0c.class
+#	new file:   old_funsets/project/project/target/config-classes/$4143a118df6b6f04ad8f$.class
+#	new file:   old_funsets/project/project/target/config-classes/$4143a118df6b6f04ad8f.cache
+#	new file:   old_funsets/project/project/target/config-classes/$4143a118df6b6f04ad8f.class
+#	new file:   old_funsets/project/project/target/config-classes/$47564e54c9834d29d862$.class
+#	new file:   old_funsets/project/project/target/config-classes/$47564e54c9834d29d862.cache
+#	new file:   old_funsets/project/project/target/config-classes/$47564e54c9834d29d862.class
+#	new file:   old_funsets/project/project/target/config-classes/$49626e06c0570959d351$.class
+#	new file:   old_funsets/project/project/target/config-classes/$49626e06c0570959d351.cache
+#	new file:   old_funsets/project/project/target/config-classes/$49626e06c0570959d351.class
+#	new file:   old_funsets/project/project/target/config-classes/$5eed3bcca906ecd69cf8$.class
+#	new file:   old_funsets/project/project/target/config-classes/$5eed3bcca906ecd69cf8.cache
+#	new file:   old_funsets/project/project/target/config-classes/$5eed3bcca906ecd69cf8.class
+#	new file:   old_funsets/project/project/target/config-classes/$8402e93774d34cc7486c$.class
+#	new file:   old_funsets/project/project/target/config-classes/$8402e93774d34cc7486c.cache
+#	new file:   old_funsets/project/project/target/config-classes/$8402e93774d34cc7486c.class
+#	new file:   old_funsets/project/project/target/config-classes/$95a93084fb4297b1276a$.class
+#	new file:   old_funsets/project/project/target/config-classes/$95a93084fb4297b1276a.cache
+#	new file:   old_funsets/project/project/target/config-classes/$95a93084fb4297b1276a.class
+#	new file:   old_funsets/project/project/target/config-classes/$a266c6e7f83dc17d9c42$.class
+#	new file:   old_funsets/project/project/target/config-classes/$a266c6e7f83dc17d9c42.cache
+#	new file:   old_funsets/project/project/target/config-classes/$a266c6e7f83dc17d9c42.class
+#	new file:   old_funsets/project/project/target/config-classes/$af3b01126d2e180ca4bb$.class
+#	new file:   old_funsets/project/project/target/config-classes/$af3b01126d2e180ca4bb.cache
+#	new file:   old_funsets/project/project/target/config-classes/$af3b01126d2e180ca4bb.class
+#	new file:   old_funsets/project/project/target/config-classes/$cf1557417baaf924e25e$.class
+#	new file:   old_funsets/project/project/target/config-classes/$cf1557417baaf924e25e.cache
+#	new file:   old_funsets/project/project/target/config-classes/$cf1557417baaf924e25e.class
+#	new file:   old_funsets/project/project/target/config-classes/$d03dd47c7da7fdcc7048$.class
+#	new file:   old_funsets/project/project/target/config-classes/$d03dd47c7da7fdcc7048.cache
+#	new file:   old_funsets/project/project/target/config-classes/$d03dd47c7da7fdcc7048.class
+#	new file:   old_funsets/project/project/target/config-classes/$d5bd6775a78bac27dbec$.class
+#	new file:   old_funsets/project/project/target/config-classes/$d5bd6775a78bac27dbec.cache
+#	new file:   old_funsets/project/project/target/config-classes/$d5bd6775a78bac27dbec.class
+#	new file:   old_funsets/project/project/target/config-classes/$de895a35f93128aa0f5b$.class
+#	new file:   old_funsets/project/project/target/config-classes/$de895a35f93128aa0f5b.cache
+#	new file:   old_funsets/project/project/target/config-classes/$de895a35f93128aa0f5b.class
+#	new file:   old_funsets/project/project/target/config-classes/$df1b1d57c5f5fe702303$.class
+#	new file:   old_funsets/project/project/target/config-classes/$df1b1d57c5f5fe702303.cache
+#	new file:   old_funsets/project/project/target/config-classes/$df1b1d57c5f5fe702303.class
+#	new file:   old_funsets/project/project/target/config-classes/$e24969f86ca90014bd36$.class
+#	new file:   old_funsets/project/project/target/config-classes/$e24969f86ca90014bd36.cache
+#	new file:   old_funsets/project/project/target/config-classes/$e24969f86ca90014bd36.class
+#	new file:   old_funsets/project/project/target/config-classes/$e815fa9b6bb92a60df6a$.class
+#	new file:   old_funsets/project/project/target/config-classes/$e815fa9b6bb92a60df6a.cache
+#	new file:   old_funsets/project/project/target/config-classes/$e815fa9b6bb92a60df6a.class
+#	new file:   old_funsets/project/project/target/config-classes/$e9d58bcaeb7338a2e702$.class
+#	new file:   old_funsets/project/project/target/config-classes/$e9d58bcaeb7338a2e702.cache
+#	new file:   old_funsets/project/project/target/config-classes/$e9d58bcaeb7338a2e702.class
+#	new file:   old_funsets/project/project/target/config-classes/$eae47f56a9ac4ecde7ed$.class
+#	new file:   old_funsets/project/project/target/config-classes/$eae47f56a9ac4ecde7ed.cache
+#	new file:   old_funsets/project/project/target/config-classes/$eae47f56a9ac4ecde7ed.class
+#	new file:   old_funsets/project/target/.sbt-compilation-infos/funsets-compile/.sbt-idea-lock
+#	new file:   old_funsets/project/target/config-classes/$117a9efa3a5190cae7e3$.class
+#	new file:   old_funsets/project/target/config-classes/$117a9efa3a5190cae7e3.cache
+#	new file:   old_funsets/project/target/config-classes/$117a9efa3a5190cae7e3.class
+#	new file:   old_funsets/project/target/config-classes/$12463368d6ccad7438ed$.class
+#	new file:   old_funsets/project/target/config-classes/$12463368d6ccad7438ed.cache
+#	new file:   old_funsets/project/target/config-classes/$12463368d6ccad7438ed.class
+#	new file:   old_funsets/project/target/config-classes/$1a605f1ae93108eff428$.class
+#	new file:   old_funsets/project/target/config-classes/$1a605f1ae93108eff428.cache
+#	new file:   old_funsets/project/target/config-classes/$1a605f1ae93108eff428.class
+#	new file:   old_funsets/project/target/config-classes/$1ad039384daa8b7df386$.class
+#	new file:   old_funsets/project/target/config-classes/$1ad039384daa8b7df386.cache
+#	new file:   old_funsets/project/target/config-classes/$1ad039384daa8b7df386.class
+#	new file:   old_funsets/project/target/config-classes/$3c8e806da9520b44c70b$.class
+#	new file:   old_funsets/project/target/config-classes/$3c8e806da9520b44c70b.cache
+#	new file:   old_funsets/project/target/config-classes/$3c8e806da9520b44c70b.class
+#	new file:   old_funsets/project/target/config-classes/$57d33f5f6f35f7640da1$.class
+#	new file:   old_funsets/project/target/config-classes/$57d33f5f6f35f7640da1.cache
+#	new file:   old_funsets/project/target/config-classes/$57d33f5f6f35f7640da1.class
+#	new file:   old_funsets/project/target/config-classes/$6e409795ce9e4467c26e$.class
+#	new file:   old_funsets/project/target/config-classes/$6e409795ce9e4467c26e.cache
+#	new file:   old_funsets/project/target/config-classes/$6e409795ce9e4467c26e.class
+#	new file:   old_funsets/project/target/config-classes/$ad638a549c4034599757$.class
+#	new file:   old_funsets/project/target/config-classes/$ad638a549c4034599757.cache
+#	new file:   old_funsets/project/target/config-classes/$ad638a549c4034599757.class
+#	new file:   old_funsets/project/target/config-classes/$e344ec9024ba97753d73$.class
+#	new file:   old_funsets/project/target/config-classes/$e344ec9024ba97753d73.cache
+#	new file:   old_funsets/project/target/config-classes/$e344ec9024ba97753d73.class
+#	new file:   old_funsets/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/CourseraId$.class
+#	new file:   old_funsets/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/CourseraId.class
+#	new file:   old_funsets/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/MOOCSettings$.class
+#	new file:   old_funsets/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/MOOCSettings$autoImport$.class
+#	new file:   old_funsets/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/MOOCSettings.class
+#	new file:   old_funsets/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/StudentTasks$.class
+#	new file:   old_funsets/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/StudentTasks$autoImport$.class
+#	new file:   old_funsets/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/StudentTasks.class
+#	new file:   old_funsets/project/target/scala-2.12/sbt-1.0/classes/sbt/sbt.autoplugins
+#	new file:   old_funsets/project/target/scala-2.12/sbt-1.0/resource_managed/main/sbt/sbt.autoplugins
+#	new file:   old_funsets/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs
+#	new file:   old_funsets/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output
+#	new file:   old_funsets/project/target/streams/_global/_global/_global/streams/out
+#	new file:   old_funsets/project/target/streams/_global/_global/csrLogger/_global/streams/out
+#	new file:   old_funsets/project/target/streams/_global/csrConfiguration/_global/streams/out
+#	new file:   old_funsets/project/target/streams/_global/csrProject/_global/streams/out
+#	new file:   old_funsets/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp
+#	new file:   old_funsets/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp
+#	new file:   old_funsets/project/target/streams/_global/ivyConfiguration/_global/streams/out
+#	new file:   old_funsets/project/target/streams/_global/ivySbt/_global/streams/out
+#	new file:   old_funsets/project/target/streams/_global/moduleSettings/_global/streams/out
+#	new file:   old_funsets/project/target/streams/_global/projectDescriptors/_global/streams/out
+#	new file:   old_funsets/project/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out
+#	new file:   old_funsets/project/target/streams/_global/update/_global/streams/out
+#	new file:   old_funsets/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous
+#	new file:   old_funsets/project/target/streams/compile/_global/_global/compileOutputs/previous
+#	new file:   old_funsets/project/target/streams/compile/_global/_global/compileSourceFileInputs/previous
+#	new file:   old_funsets/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous
+#	new file:   old_funsets/project/target/streams/compile/_global/_global/discoveredMainClasses/data
+#	new file:   old_funsets/project/target/streams/compile/_global/_global/managedSourcePaths/previous
+#	new file:   old_funsets/project/target/streams/compile/compile/_global/streams/out
+#	new file:   old_funsets/project/target/streams/compile/compileIncSetup/_global/streams/inc_compile_2.12.zip
+#	new file:   old_funsets/project/target/streams/compile/compileIncremental/_global/streams/export
+#	new file:   old_funsets/project/target/streams/compile/compileIncremental/_global/streams/out
+#	new file:   old_funsets/project/target/streams/compile/copyResources/_global/streams/copy-resources
+#	new file:   old_funsets/project/target/streams/compile/copyResources/_global/streams/out
+#	new file:   old_funsets/project/target/streams/compile/dependencyClasspath/_global/streams/export
+#	new file:   old_funsets/project/target/streams/compile/exportedProducts/_global/streams/export
+#	new file:   old_funsets/project/target/streams/compile/externalDependencyClasspath/_global/streams/export
+#	new file:   old_funsets/project/target/streams/compile/internalDependencyClasspath/_global/streams/export
+#	new file:   old_funsets/project/target/streams/compile/managedClasspath/_global/streams/export
+#	new file:   old_funsets/project/target/streams/compile/unmanagedClasspath/_global/streams/export
+#	new file:   old_funsets/project/target/streams/compile/unmanagedJars/_global/streams/export
+#	new file:   old_funsets/project/target/streams/runtime/dependencyClasspath/_global/streams/export
+#	new file:   old_funsets/project/target/streams/runtime/exportedProducts/_global/streams/export
+#	new file:   old_funsets/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export
+#	new file:   old_funsets/project/target/streams/runtime/fullClasspath/_global/streams/export
+#	new file:   old_funsets/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export
+#	new file:   old_funsets/project/target/streams/runtime/managedClasspath/_global/streams/export
+#	new file:   old_funsets/project/target/streams/runtime/unmanagedClasspath/_global/streams/export
+#	new file:   old_funsets/project/target/streams/runtime/unmanagedJars/_global/streams/export
+#	new file:   old_funsets/src/main/scala/funsets/FunSets.scala
+#	new file:   old_funsets/src/main/scala/funsets/FunSetsInterface.scala
+#	new file:   old_funsets/src/main/scala/funsets/Main.scala
+#	new file:   old_funsets/src/test/scala/funsets/FunSetSuite.scala
+#	new file:   old_funsets/target/dummy/funsets/FunSets$.class
+#	new file:   old_funsets/target/dummy/funsets/FunSets.class
+#	new file:   old_funsets/target/dummy/funsets/FunSetsInterface.class
+#	new file:   old_funsets/target/dummy/funsets/Main$.class
+#	new file:   old_funsets/target/dummy/funsets/Main$delayedInit$body.class
+#	new file:   old_funsets/target/dummy/funsets/Main.class
+#	new file:   old_funsets/target/scala-2.13/progfun1-funsets_2.13-0.1.0-SNAPSHOT-sources.jar
+#	new file:   old_funsets/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous
+#	new file:   old_funsets/target/streams/_global/_global/checkBuildSources/_global/streams/out
+#	new file:   old_funsets/target/streams/_global/_global/csrLogger/_global/streams/out
+#	new file:   old_funsets/target/streams/_global/coursierResolutions/_global/streams/out
+#	new file:   old_funsets/target/streams/_global/projectDescriptors/_global/streams/out
+#	new file:   old_funsets/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out
+#	new file:   old_funsets/target/streams/compile/_global/_global/compileBinaryFileInputs/previous
+#	new file:   old_funsets/target/streams/compile/_global/_global/compileSourceFileInputs/previous
+#	new file:   old_funsets/target/streams/compile/_global/_global/managedSourcePaths/previous
+#	new file:   old_funsets/target/streams/compile/compile/_global/streams/out
+#	new file:   old_funsets/target/streams/compile/copyResources/_global/streams/copy-resources
+#	new file:   old_funsets/target/streams/compile/copyResources/_global/streams/out
+#	new file:   old_funsets/target/streams/compile/packageSourcesOnly/_global/streams/inputs
+#	new file:   old_funsets/target/streams/compile/packageSourcesOnly/_global/streams/out
+#	new file:   old_funsets/target/streams/compile/packageSourcesOnly/_global/streams/output
+#	new file:   old_funsets/target/streams/compile/unmanagedClasspath/_global/streams/export
+#	new file:   old_funsets/target/streams/compile/unmanagedJars/_global/streams/export
+#	new file:   old_recfun/.idea/.gitignore
+#	new file:   old_recfun/.idea/.name
+#	new file:   old_recfun/.idea/codeStyles/Project.xml
+#	new file:   old_recfun/.idea/codeStyles/codeStyleConfig.xml
+#	new file:   old_recfun/.idea/libraries/sbt__com_novocode_junit_interface_0_11_jar.xml
+#	new file:   old_recfun/.idea/libraries/sbt__junit_junit_4_11_jar.xml
+#	new file:   old_recfun/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_3_jar.xml
+#	new file:   old_recfun/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_0_jar.xml
+#	new file:   old_recfun/.idea/libraries/sbt__org_scala_sbt_test_interface_1_0_jar.xml
+#	new file:   old_recfun/.idea/misc.xml
+#	new file:   old_recfun/.idea/modules.xml
+#	new file:   old_recfun/.idea/modules/progfun1-recfun-build.iml
+#	new file:   old_recfun/.idea/modules/progfun1-recfun.iml
+#	new file:   old_recfun/.idea/sbt.xml
+#	new file:   old_recfun/.idea/scala_compiler.xml
+#	new file:   old_recfun/.scalafix.conf
+#	new file:   old_recfun/assignment.sbt
+#	new file:   old_recfun/build.sbt
+#	new file:   old_recfun/project/MOOCSettings.scala
+#	new file:   old_recfun/project/StudentTasks.scala
+#	new file:   old_recfun/project/build.properties
+#	new file:   old_recfun/project/buildSettings.sbt
+#	new file:   old_recfun/project/plugins.sbt
+#	new file:   old_recfun/project/project/target/config-classes/$236cad5ff5aba8643141$.class
+#	new file:   old_recfun/project/project/target/config-classes/$236cad5ff5aba8643141.cache
+#	new file:   old_recfun/project/project/target/config-classes/$236cad5ff5aba8643141.class
+#	new file:   old_recfun/project/project/target/config-classes/$4b03ff9d64bf49f72271$.class
+#	new file:   old_recfun/project/project/target/config-classes/$4b03ff9d64bf49f72271.cache
+#	new file:   old_recfun/project/project/target/config-classes/$4b03ff9d64bf49f72271.class
+#	new file:   old_recfun/project/project/target/config-classes/$60401816ba6b87b6e993$.class
+#	new file:   old_recfun/project/project/target/config-classes/$60401816ba6b87b6e993.cache
+#	new file:   old_recfun/project/project/target/config-classes/$60401816ba6b87b6e993.class
+#	new file:   old_recfun/project/project/target/config-classes/$8da89143b219373ac1c0$.class
+#	new file:   old_recfun/project/project/target/config-classes/$8da89143b219373ac1c0.cache
+#	new file:   old_recfun/project/project/target/config-classes/$8da89143b219373ac1c0.class
+#	new file:   old_recfun/project/project/target/config-classes/$a59c57508e0e7e4449a5$.class
+#	new file:   old_recfun/project/project/target/config-classes/$a59c57508e0e7e4449a5.cache
+#	new file:   old_recfun/project/project/target/config-classes/$a59c57508e0e7e4449a5.class
+#	new file:   old_recfun/project/project/target/config-classes/$fe7702c0bff8707eb6a5$.class
+#	new file:   old_recfun/project/project/target/config-classes/$fe7702c0bff8707eb6a5.cache
+#	new file:   old_recfun/project/project/target/config-classes/$fe7702c0bff8707eb6a5.class
+#	new file:   old_recfun/project/target/.sbt-compilation-infos/recfun-compile/.sbt-idea-lock
+#	new file:   old_recfun/project/target/config-classes/$1f234a46e98dc4ce8110$.class
+#	new file:   old_recfun/project/target/config-classes/$1f234a46e98dc4ce8110.cache
+#	new file:   old_recfun/project/target/config-classes/$1f234a46e98dc4ce8110.class
+#	new file:   old_recfun/project/target/config-classes/$3e63bff360e156145d00$.class
+#	new file:   old_recfun/project/target/config-classes/$3e63bff360e156145d00.cache
+#	new file:   old_recfun/project/target/config-classes/$3e63bff360e156145d00.class
+#	new file:   old_recfun/project/target/config-classes/$65db848674b642c6843d$.class
+#	new file:   old_recfun/project/target/config-classes/$65db848674b642c6843d.cache
+#	new file:   old_recfun/project/target/config-classes/$65db848674b642c6843d.class
+#	new file:   old_recfun/project/target/config-classes/$91609e477c0c98202523$.class
+#	new file:   old_recfun/project/target/config-classes/$91609e477c0c98202523.cache
+#	new file:   old_recfun/project/target/config-classes/$91609e477c0c98202523.class
+#	new file:   old_recfun/project/target/config-classes/$c114cfb1c179f2ffd158$.class
+#	new file:   old_recfun/project/target/config-classes/$c114cfb1c179f2ffd158.cache
+#	new file:   old_recfun/project/target/config-classes/$c114cfb1c179f2ffd158.class
+#	new file:   old_recfun/project/target/config-classes/$cc97b09c3f27c76fe77c$.class
+#	new file:   old_recfun/project/target/config-classes/$cc97b09c3f27c76fe77c.cache
+#	new file:   old_recfun/project/target/config-classes/$cc97b09c3f27c76fe77c.class
+#	new file:   old_recfun/project/target/config-classes/$d47989bf2b2e10394e3f$.class
+#	new file:   old_recfun/project/target/config-classes/$d47989bf2b2e10394e3f.cache
+#	new file:   old_recfun/project/target/config-classes/$d47989bf2b2e10394e3f.class
+#	new file:   old_recfun/project/target/config-classes/$f75682850f0e073bc8fa$.class
+#	new file:   old_recfun/project/target/config-classes/$f75682850f0e073bc8fa.cache
+#	new file:   old_recfun/project/target/config-classes/$f75682850f0e073bc8fa.class
+#	new file:   old_recfun/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/CourseraId$.class
+#	new file:   old_recfun/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/CourseraId.class
+#	new file:   old_recfun/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/MOOCSettings$.class
+#	new file:   old_recfun/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/MOOCSettings$autoImport$.class
+#	new file:   old_recfun/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/MOOCSettings.class
+#	new file:   old_recfun/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/StudentTasks$.class
+#	new file:   old_recfun/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/StudentTasks$autoImport$.class
+#	new file:   old_recfun/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/StudentTasks.class
+#	new file:   old_recfun/project/target/scala-2.12/sbt-1.0/classes/sbt/sbt.autoplugins
+#	new file:   old_recfun/project/target/scala-2.12/sbt-1.0/resolution-cache/default/recfun-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties
+#	new file:   old_recfun/project/target/scala-2.12/sbt-1.0/resolution-cache/default/recfun-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml
+#	new file:   old_recfun/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-recfun-build-compile-internal.xml
+#	new file:   old_recfun/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-recfun-build-compile.xml
+#	new file:   old_recfun/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-recfun-build-optional.xml
+#	new file:   old_recfun/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-recfun-build-plugin.xml
+#	new file:   old_recfun/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-recfun-build-pom.xml
+#	new file:   old_recfun/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-recfun-build-provided.xml
+#	new file:   old_recfun/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-recfun-build-runtime-internal.xml
+#	new file:   old_recfun/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-recfun-build-runtime.xml
+#	new file:   old_recfun/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-recfun-build-scala-tool.xml
+#	new file:   old_recfun/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-recfun-build-test-internal.xml
+#	new file:   old_recfun/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-recfun-build-test.xml
+#	new file:   old_recfun/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.css
+#	new file:   old_recfun/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.xsl
+#	new file:   old_recfun/project/target/scala-2.12/sbt-1.0/resource_managed/main/sbt/sbt.autoplugins
+#	new file:   old_recfun/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs
+#	new file:   old_recfun/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output
+#	new file:   old_recfun/project/target/streams/$global/$global/$global/streams/out
+#	new file:   old_recfun/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp
+#	new file:   old_recfun/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp
+#	new file:   old_recfun/project/target/streams/$global/ivyConfiguration/$global/streams/out
+#	new file:   old_recfun/project/target/streams/$global/ivySbt/$global/streams/out
+#	new file:   old_recfun/project/target/streams/$global/projectDescriptors/$global/streams/out
+#	new file:   old_recfun/project/target/streams/$global/update/$global/streams/out
+#	new file:   old_recfun/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs
+#	new file:   old_recfun/project/target/streams/$global/update/$global/streams/update_cache_2.12/output
+#	new file:   old_recfun/project/target/streams/_global/_global/_global/streams/out
+#	new file:   old_recfun/project/target/streams/_global/_global/csrLogger/_global/streams/out
+#	new file:   old_recfun/project/target/streams/_global/csrConfiguration/_global/streams/out
+#	new file:   old_recfun/project/target/streams/_global/csrProject/_global/streams/out
+#	new file:   old_recfun/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp
+#	new file:   old_recfun/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp
+#	new file:   old_recfun/project/target/streams/_global/ivyConfiguration/_global/streams/out
+#	new file:   old_recfun/project/target/streams/_global/ivySbt/_global/streams/out
+#	new file:   old_recfun/project/target/streams/_global/moduleSettings/_global/streams/out
+#	new file:   old_recfun/project/target/streams/_global/projectDescriptors/_global/streams/out
+#	new file:   old_recfun/project/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out
+#	new file:   old_recfun/project/target/streams/_global/update/_global/streams/out
+#	new file:   old_recfun/project/target/streams/compile/$global/$global/discoveredMainClasses/data
+#	new file:   old_recfun/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous
+#	new file:   old_recfun/project/target/streams/compile/_global/_global/compileOutputs/previous
+#	new file:   old_recfun/project/target/streams/compile/_global/_global/compileSourceFileInputs/previous
+#	new file:   old_recfun/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous
+#	new file:   old_recfun/project/target/streams/compile/_global/_global/discoveredMainClasses/data
+#	new file:   old_recfun/project/target/streams/compile/_global/_global/managedSourcePaths/previous
+#	new file:   old_recfun/project/target/streams/compile/compile/$global/streams/out
+#	new file:   old_recfun/project/target/streams/compile/compile/_global/streams/out
+#	new file:   old_recfun/project/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip
+#	new file:   old_recfun/project/target/streams/compile/compileIncSetup/_global/streams/inc_compile_2.12.zip
+#	new file:   old_recfun/project/target/streams/compile/compileIncremental/$global/streams/export
+#	new file:   old_recfun/project/target/streams/compile/compileIncremental/$global/streams/out
+#	new file:   old_recfun/project/target/streams/compile/compileIncremental/_global/streams/export
+#	new file:   old_recfun/project/target/streams/compile/compileIncremental/_global/streams/out
+#	new file:   old_recfun/project/target/streams/compile/copyResources/$global/streams/copy-resources
+#	new file:   old_recfun/project/target/streams/compile/copyResources/$global/streams/out
+#	new file:   old_recfun/project/target/streams/compile/copyResources/_global/streams/copy-resources
+#	new file:   old_recfun/project/target/streams/compile/copyResources/_global/streams/out
+#	new file:   old_recfun/project/target/streams/compile/dependencyClasspath/$global/streams/export
+#	new file:   old_recfun/project/target/streams/compile/dependencyClasspath/_global/streams/export
+#	new file:   old_recfun/project/target/streams/compile/exportedProducts/$global/streams/export
+#	new file:   old_recfun/project/target/streams/compile/exportedProducts/_global/streams/export
+#	new file:   old_recfun/project/target/streams/compile/externalDependencyClasspath/$global/streams/export
+#	new file:   old_recfun/project/target/streams/compile/externalDependencyClasspath/_global/streams/export
+#	new file:   old_recfun/project/target/streams/compile/internalDependencyClasspath/$global/streams/export
+#	new file:   old_recfun/project/target/streams/compile/internalDependencyClasspath/_global/streams/export
+#	new file:   old_recfun/project/target/streams/compile/managedClasspath/$global/streams/export
+#	new file:   old_recfun/project/target/streams/compile/managedClasspath/_global/streams/export
+#	new file:   old_recfun/project/target/streams/compile/unmanagedClasspath/$global/streams/export
+#	new file:   old_recfun/project/target/streams/compile/unmanagedClasspath/_global/streams/export
+#	new file:   old_recfun/project/target/streams/compile/unmanagedJars/$global/streams/export
+#	new file:   old_recfun/project/target/streams/compile/unmanagedJars/_global/streams/export
+#	new file:   old_recfun/project/target/streams/runtime/dependencyClasspath/$global/streams/export
+#	new file:   old_recfun/project/target/streams/runtime/dependencyClasspath/_global/streams/export
+#	new file:   old_recfun/project/target/streams/runtime/exportedProducts/$global/streams/export
+#	new file:   old_recfun/project/target/streams/runtime/exportedProducts/_global/streams/export
+#	new file:   old_recfun/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export
+#	new file:   old_recfun/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export
+#	new file:   old_recfun/project/target/streams/runtime/fullClasspath/$global/streams/export
+#	new file:   old_recfun/project/target/streams/runtime/fullClasspath/_global/streams/export
+#	new file:   old_recfun/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export
+#	new file:   old_recfun/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export
+#	new file:   old_recfun/project/target/streams/runtime/managedClasspath/$global/streams/export
+#	new file:   old_recfun/project/target/streams/runtime/managedClasspath/_global/streams/export
+#	new file:   old_recfun/project/target/streams/runtime/unmanagedClasspath/$global/streams/export
+#	new file:   old_recfun/project/target/streams/runtime/unmanagedClasspath/_global/streams/export
+#	new file:   old_recfun/project/target/streams/runtime/unmanagedJars/$global/streams/export
+#	new file:   old_recfun/project/target/streams/runtime/unmanagedJars/_global/streams/export
+#	new file:   old_recfun/src/main/scala/recfun/RecFun.scala
+#	new file:   old_recfun/src/main/scala/recfun/RecFunInterface.scala
+#	new file:   old_recfun/src/test/scala/recfun/RecFunSuite.scala
+#	new file:   old_recfun/target/.history
+#	new file:   old_recfun/target/scala-2.13/classes/recfun/RecFun$.class
+#	new file:   old_recfun/target/scala-2.13/classes/recfun/RecFun.class
+#	new file:   old_recfun/target/scala-2.13/classes/recfun/RecFunInterface.class
+#	new file:   old_recfun/target/scala-2.13/progfun1-recfun_2.13-0.1.0-SNAPSHOT-sources.jar
+#	new file:   old_recfun/target/scala-2.13/test-classes/recfun/RecFunSuite.class
+#	new file:   old_recfun/target/streams/$global/$global/dumpStructure/$global/streams/out
+#	new file:   old_recfun/target/streams/$global/coursierArtifacts/$global/streams/out
+#	new file:   old_recfun/target/streams/$global/coursierClassifiersArtifacts/$global/streams/out
+#	new file:   old_recfun/target/streams/$global/coursierResolutions/$global/streams/out
+#	new file:   old_recfun/target/streams/$global/projectDescriptors/$global/streams/out
+#	new file:   old_recfun/target/streams/$global/update/$global/streams/out
+#	new file:   old_recfun/target/streams/$global/updateClassifiers/$global/streams/out
+#	new file:   old_recfun/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous
+#	new file:   old_recfun/target/streams/_global/_global/checkBuildSources/_global/streams/out
+#	new file:   old_recfun/target/streams/_global/_global/csrLogger/_global/streams/out
+#	new file:   old_recfun/target/streams/_global/coursierResolutions/_global/streams/out
+#	new file:   old_recfun/target/streams/_global/projectDescriptors/_global/streams/out
+#	new file:   old_recfun/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out
+#	new file:   old_recfun/target/streams/compile/_global/_global/compileBinaryFileInputs/previous
+#	new file:   old_recfun/target/streams/compile/_global/_global/compileSourceFileInputs/previous
+#	new file:   old_recfun/target/streams/compile/_global/_global/managedSourcePaths/previous
+#	new file:   old_recfun/target/streams/compile/compile/_global/streams/out
+#	new file:   old_recfun/target/streams/compile/copyResources/_global/streams/copy-resources
+#	new file:   old_recfun/target/streams/compile/copyResources/_global/streams/out
+#	new file:   old_recfun/target/streams/compile/externalDependencyClasspath/$global/streams/export
+#	new file:   old_recfun/target/streams/compile/managedClasspath/$global/streams/export
+#	new file:   old_recfun/target/streams/compile/packageSourcesOnly/_global/streams/inputs
+#	new file:   old_recfun/target/streams/compile/packageSourcesOnly/_global/streams/out
+#	new file:   old_recfun/target/streams/compile/packageSourcesOnly/_global/streams/output
+#	new file:   old_recfun/target/streams/compile/unmanagedClasspath/$global/streams/export
+#	new file:   old_recfun/target/streams/compile/unmanagedClasspath/_global/streams/export
+#	new file:   old_recfun/target/streams/compile/unmanagedJars/$global/streams/export
+#	new file:   old_recfun/target/streams/compile/unmanagedJars/_global/streams/export
+#	new file:   old_recfun/target/streams/runtime/externalDependencyClasspath/$global/streams/export
+#	new file:   old_recfun/target/streams/runtime/managedClasspath/$global/streams/export
+#	new file:   old_recfun/target/streams/runtime/unmanagedClasspath/$global/streams/export
+#	new file:   old_recfun/target/streams/runtime/unmanagedJars/$global/streams/export
+#	new file:   old_recfun/target/streams/test/externalDependencyClasspath/$global/streams/export
+#	new file:   old_recfun/target/streams/test/managedClasspath/$global/streams/export
+#	new file:   old_recfun/target/streams/test/unmanagedClasspath/$global/streams/export
+#	new file:   old_recfun/target/streams/test/unmanagedJars/$global/streams/export
+#	new file:   patmat.zip
+#	new file:   patmat/.project
+#	new file:   patmat/.scalafix.conf
+#	new file:   patmat/assignment.sbt
+#	new file:   patmat/build.sbt
+#	new file:   patmat/project/MOOCSettings.scala
+#	new file:   patmat/project/StudentTasks.scala
+#	new file:   patmat/project/build.properties
+#	new file:   patmat/project/buildSettings.sbt
+#	new file:   patmat/project/plugins.sbt
+#	new file:   patmat/src/main/scala/patmat/Huffman.scala
+#	new file:   patmat/src/main/scala/patmat/HuffmanInterface.scala
+#	new file:   patmat/src/test/scala/patmat/HuffmanSuite.scala
+#	new file:   progfun/.classpath
+#	new file:   progfun/.idea/.gitignore
+#	new file:   progfun/.idea/codeStyles/Project.xml
+#	new file:   progfun/.idea/codeStyles/codeStyleConfig.xml
+#	new file:   progfun/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_1_jar.xml
+#	new file:   progfun/.idea/misc.xml
+#	new file:   progfun/.idea/modules.xml
+#	new file:   progfun/.idea/modules/progfun-build.iml
+#	new file:   progfun/.idea/modules/progfun.iml
+#	new file:   progfun/.idea/sbt.xml
+#	new file:   progfun/.idea/scala_compiler.xml
+#	new file:   progfun/.idea/scala_settings.xml
+#	new file:   progfun/.project
+#	new file:   progfun/.settings/com.genuitec.eclipse.code.core.prefs
+#	new file:   progfun/.worksheet/bin/Empty.class
+#	new file:   progfun/.worksheet/bin/IntSet.class
+#	new file:   progfun/.worksheet/bin/NonEmpty.class
+#	new file:   progfun/.worksheet/bin/intsets$.class
+#	new file:   progfun/.worksheet/bin/intsets.class
+#	new file:   progfun/.worksheet/bin/nth$.class
+#	new file:   progfun/.worksheet/bin/nth.class
+#	new file:   progfun/.worksheet/bin/scratch$.class
+#	new file:   progfun/.worksheet/bin/scratch.class
+#	new file:   progfun/.worksheet/bin/week3/Base.class
+#	new file:   progfun/.worksheet/bin/week3/Sub.class
+#	new file:   progfun/.worksheet/bin/week3/nth$.class
+#	new file:   progfun/.worksheet/bin/week3/nth.class
+#	new file:   progfun/.worksheet/bin/week3/organised_calsses$.class
+#	new file:   progfun/.worksheet/bin/week3/organised_calsses.class
+#	new file:   progfun/.worksheet/bin/week3/overrides$.class
+#	new file:   progfun/.worksheet/bin/week3/overrides.class
+#	new file:   progfun/.worksheet/bin/week3/scratch$.class
+#	new file:   progfun/.worksheet/bin/week3/scratch.class
+#	new file:   progfun/.worksheet/src/intsets.scala
+#	new file:   progfun/.worksheet/src/nth.scala
+#	new file:   progfun/.worksheet/src/scratch.scala
+#	new file:   progfun/.worksheet/src/week3.nth.scala
+#	new file:   progfun/.worksheet/src/week3.organised_calsses.scala
+#	new file:   progfun/.worksheet/src/week3.overrides.scala
+#	new file:   progfun/.worksheet/src/week3.scratch.scala
+#	new file:   progfun/bin/hello$.class
+#	new file:   progfun/bin/hello.class
+#	new file:   progfun/bin/module-info.class
+#	new file:   progfun/bin/week01/session1.sc
+#	new file:   progfun/bin/week3/Cons.class
+#	new file:   progfun/bin/week3/Hello$.class
+#	new file:   progfun/bin/week3/Hello.class
+#	new file:   progfun/bin/week3/List.class
+#	new file:   progfun/bin/week3/Nil.class
+#	new file:   progfun/bin/week3/class_hierarchies.sc
+#	new file:   progfun/bin/week3/nth.sc
+#	new file:   progfun/bin/week3/organised_calsses.sc
+#	new file:   progfun/bin/week3/overrides.sc
+#	new file:   progfun/bin/week3/scratch.sc
+#	new file:   progfun/build.sbt
+#	new file:   progfun/project/build.properties
+#	new file:   progfun/project/project/target/config-classes/$4cb6401794a387f0cc78$.class
+#	new file:   progfun/project/project/target/config-classes/$4cb6401794a387f0cc78.cache
+#	new file:   progfun/project/project/target/config-classes/$4cb6401794a387f0cc78.class
+#	new file:   progfun/project/target/.sbt-compilation-infos/progfun-compile/.sbt-idea-lock
+#	new file:   progfun/project/target/config-classes/$199fd8334798828d23e5$.class
+#	new file:   progfun/project/target/config-classes/$199fd8334798828d23e5.cache
+#	new file:   progfun/project/target/config-classes/$199fd8334798828d23e5.class
+#	new file:   progfun/project/target/config-classes/$39df65c38d2e733ecfb2$.class
+#	new file:   progfun/project/target/config-classes/$39df65c38d2e733ecfb2.cache
+#	new file:   progfun/project/target/config-classes/$39df65c38d2e733ecfb2.class
+#	new file:   progfun/project/target/config-classes/$b78b21de6219615f983c$.class
+#	new file:   progfun/project/target/config-classes/$b78b21de6219615f983c.cache
+#	new file:   progfun/project/target/config-classes/$b78b21de6219615f983c.class
+#	new file:   progfun/project/target/config-classes/$d7c3214b72a215fd90c1$.class
+#	new file:   progfun/project/target/config-classes/$d7c3214b72a215fd90c1.cache
+#	new file:   progfun/project/target/config-classes/$d7c3214b72a215fd90c1.class
+#	new file:   progfun/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs
+#	new file:   progfun/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output
+#	new file:   progfun/project/target/streams/_global/_global/_global/streams/out
+#	new file:   progfun/project/target/streams/_global/_global/csrLogger/_global/streams/out
+#	new file:   progfun/project/target/streams/_global/csrConfiguration/_global/streams/out
+#	new file:   progfun/project/target/streams/_global/csrProject/_global/streams/out
+#	new file:   progfun/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp
+#	new file:   progfun/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp
+#	new file:   progfun/project/target/streams/_global/ivyConfiguration/_global/streams/out
+#	new file:   progfun/project/target/streams/_global/ivySbt/_global/streams/out
+#	new file:   progfun/project/target/streams/_global/moduleSettings/_global/streams/out
+#	new file:   progfun/project/target/streams/_global/projectDescriptors/_global/streams/out
+#	new file:   progfun/project/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out
+#	new file:   progfun/project/target/streams/_global/update/_global/streams/out
+#	new file:   progfun/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous
+#	new file:   progfun/project/target/streams/compile/_global/_global/compileOutputs/previous
+#	new file:   progfun/project/target/streams/compile/_global/_global/compileSourceFileInputs/previous
+#	new file:   progfun/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous
+#	new file:   progfun/project/target/streams/compile/_global/_global/discoveredMainClasses/data
+#	new file:   progfun/project/target/streams/compile/_global/_global/managedSourcePaths/previous
+#	new file:   progfun/project/target/streams/compile/compile/_global/streams/out
+#	new file:   progfun/project/target/streams/compile/compileIncremental/_global/streams/export
+#	new file:   progfun/project/target/streams/compile/compileIncremental/_global/streams/out
+#	new file:   progfun/project/target/streams/compile/copyResources/_global/streams/copy-resources
+#	new file:   progfun/project/target/streams/compile/copyResources/_global/streams/out
+#	new file:   progfun/project/target/streams/compile/dependencyClasspath/_global/streams/export
+#	new file:   progfun/project/target/streams/compile/exportedProducts/_global/streams/export
+#	new file:   progfun/project/target/streams/compile/externalDependencyClasspath/_global/streams/export
+#	new file:   progfun/project/target/streams/compile/internalDependencyClasspath/_global/streams/export
+#	new file:   progfun/project/target/streams/compile/managedClasspath/_global/streams/export
+#	new file:   progfun/project/target/streams/compile/unmanagedClasspath/_global/streams/export
+#	new file:   progfun/project/target/streams/compile/unmanagedJars/_global/streams/export
+#	new file:   progfun/project/target/streams/runtime/dependencyClasspath/_global/streams/export
+#	new file:   progfun/project/target/streams/runtime/exportedProducts/_global/streams/export
+#	new file:   progfun/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export
+#	new file:   progfun/project/target/streams/runtime/fullClasspath/_global/streams/export
+#	new file:   progfun/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export
+#	new file:   progfun/project/target/streams/runtime/managedClasspath/_global/streams/export
+#	new file:   progfun/project/target/streams/runtime/unmanagedClasspath/_global/streams/export
+#	new file:   progfun/project/target/streams/runtime/unmanagedJars/_global/streams/export
+#	new file:   progfun/src/hello.scala
+#	new file:   progfun/src/module-info.java
+#	new file:   progfun/src/week01/session1.sc
+#	new file:   progfun/src/week3/List.scala
+#	new file:   progfun/src/week3/class_hierarchies.sc
+#	new file:   progfun/src/week3/nth.sc
+#	new file:   progfun/src/week3/organised_calsses.sc
+#	new file:   progfun/src/week3/overrides.sc
+#	new file:   progfun/src/week3/scratch.sc
+#	new file:   progfun/target/.history
+#	new file:   progfun/target/scala-2.13/classes/session1.sc
+#	new file:   progfun/target/scala-2.13/update/update_cache_2.13/inputs
+#	new file:   progfun/target/scala-2.13/update/update_cache_2.13/output
+#	new file:   progfun/target/streams/_global/_global/_global/streams/out
+#	new file:   progfun/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous
+#	new file:   progfun/target/streams/_global/_global/checkBuildSources/_global/streams/out
+#	new file:   progfun/target/streams/_global/_global/csrLogger/_global/streams/out
+#	new file:   progfun/target/streams/_global/_global/dumpStructure/_global/streams/out
+#	new file:   progfun/target/streams/_global/console/_global/streams/out
+#	new file:   progfun/target/streams/_global/csrConfiguration/_global/streams/out
+#	new file:   progfun/target/streams/_global/csrProject/_global/streams/out
+#	new file:   progfun/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/input_dsp
+#	new file:   progfun/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/output_dsp
+#	new file:   progfun/target/streams/_global/ivyConfiguration/_global/streams/out
+#	new file:   progfun/target/streams/_global/ivySbt/_global/streams/out
+#	new file:   progfun/target/streams/_global/moduleSettings/_global/streams/out
+#	new file:   progfun/target/streams/_global/projectDescriptors/_global/streams/out
+#	new file:   progfun/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out
+#	new file:   progfun/target/streams/_global/ssExtractDependencies/_global/streams/out
+#	new file:   progfun/target/streams/_global/update/_global/streams/out
+#	new file:   progfun/target/streams/_global/updateClassifiers/_global/streams/out
+#	new file:   progfun/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/inputs
+#	new file:   progfun/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output
+#	new file:   progfun/target/streams/compile/_global/_global/compileBinaryFileInputs/previous
+#	new file:   progfun/target/streams/compile/_global/_global/compileOutputs/previous
+#	new file:   progfun/target/streams/compile/_global/_global/compileSourceFileInputs/previous
+#	new file:   progfun/target/streams/compile/_global/_global/dependencyClasspathFiles/previous
+#	new file:   progfun/target/streams/compile/_global/_global/discoveredMainClasses/data
+#	new file:   progfun/target/streams/compile/_global/_global/managedSourcePaths/previous
+#	new file:   progfun/target/streams/compile/compile/_global/streams/out
+#	new file:   progfun/target/streams/compile/compileIncremental/_global/streams/export
+#	new file:   progfun/target/streams/compile/compileIncremental/_global/streams/out
+#	new file:   progfun/target/streams/compile/console/_global/streams/export
+#	new file:   progfun/target/streams/compile/console/_global/streams/out
+#	new file:   progfun/target/streams/compile/copyResources/_global/streams/copy-resources
+#	new file:   progfun/target/streams/compile/copyResources/_global/streams/out
+#	new file:   progfun/target/streams/compile/dependencyClasspath/_global/streams/export
+#	new file:   progfun/target/streams/compile/exportedProducts/_global/streams/export
+#	new file:   progfun/target/streams/compile/externalDependencyClasspath/_global/streams/export
+#	new file:   progfun/target/streams/compile/fullClasspath/_global/streams/export
+#	new file:   progfun/target/streams/compile/internalDependencyClasspath/_global/streams/export
+#	new file:   progfun/target/streams/compile/managedClasspath/_global/streams/export
+#	new file:   progfun/target/streams/compile/unmanagedClasspath/_global/streams/export
+#	new file:   progfun/target/streams/compile/unmanagedJars/_global/streams/export
+#	new file:   progfun/target/streams/runtime/externalDependencyClasspath/_global/streams/export
+#	new file:   progfun/target/streams/runtime/managedClasspath/_global/streams/export
+#	new file:   progfun/target/streams/runtime/unmanagedClasspath/_global/streams/export
+#	new file:   progfun/target/streams/runtime/unmanagedJars/_global/streams/export
+#	new file:   progfun/target/streams/test/externalDependencyClasspath/_global/streams/export
+#	new file:   progfun/target/streams/test/managedClasspath/_global/streams/export
+#	new file:   progfun/target/streams/test/unmanagedClasspath/_global/streams/export
+#	new file:   progfun/target/streams/test/unmanagedJars/_global/streams/export
+#	new file:   recfun.zip
+#	new file:   recfun/.idea/.gitignore
+#	new file:   recfun/.idea/.name
+#	new file:   recfun/.idea/codeStyles/Project.xml
+#	new file:   recfun/.idea/codeStyles/codeStyleConfig.xml
+#	new file:   recfun/.idea/libraries/sbt__com_novocode_junit_interface_0_11_jar.xml
+#	new file:   recfun/.idea/libraries/sbt__junit_junit_4_11_jar.xml
+#	new file:   recfun/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_3_jar.xml
+#	new file:   recfun/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_0_jar.xml
+#	new file:   recfun/.idea/libraries/sbt__org_scala_sbt_test_interface_1_0_jar.xml
+#	new file:   recfun/.idea/misc.xml
+#	new file:   recfun/.idea/modules.xml
+#	new file:   recfun/.idea/modules/progfun1-recfun-build.iml
+#	new file:   recfun/.idea/modules/progfun1-recfun.iml
+#	new file:   recfun/.idea/sbt.xml
+#	new file:   recfun/.idea/scala_compiler.xml
+#	new file:   recfun/.project
+#	new file:   recfun/.scalafix.conf
+#	new file:   recfun/assignment.sbt
+#	new file:   recfun/build.sbt
+#	new file:   recfun/project/MOOCSettings.scala
+#	new file:   recfun/project/StudentTasks.scala
+#	new file:   recfun/project/build.properties
+#	new file:   recfun/project/buildSettings.sbt
+#	new file:   recfun/project/plugins.sbt
+#	new file:   recfun/project/project/target/config-classes/$106f7554e487ba9593f9$.class
+#	new file:   recfun/project/project/target/config-classes/$106f7554e487ba9593f9.cache
+#	new file:   recfun/project/project/target/config-classes/$106f7554e487ba9593f9.class
+#	new file:   recfun/project/project/target/config-classes/$2af0b7ed90f605a2e62d$.class
+#	new file:   recfun/project/project/target/config-classes/$2af0b7ed90f605a2e62d.cache
+#	new file:   recfun/project/project/target/config-classes/$2af0b7ed90f605a2e62d.class
+#	new file:   recfun/project/project/target/config-classes/$b581cd68dbee168b217b$.class
+#	new file:   recfun/project/project/target/config-classes/$b581cd68dbee168b217b.cache
+#	new file:   recfun/project/project/target/config-classes/$b581cd68dbee168b217b.class
+#	new file:   recfun/project/project/target/config-classes/$c3c0422c0326d47d61b8$.class
+#	new file:   recfun/project/project/target/config-classes/$c3c0422c0326d47d61b8.cache
+#	new file:   recfun/project/project/target/config-classes/$c3c0422c0326d47d61b8.class
+#	new file:   recfun/project/project/target/config-classes/$eb30f591f7b1a87c1222$.class
+#	new file:   recfun/project/project/target/config-classes/$eb30f591f7b1a87c1222.cache
+#	new file:   recfun/project/project/target/config-classes/$eb30f591f7b1a87c1222.class
+#	new file:   recfun/project/project/target/config-classes/$fa9f2372d644abf7c131$.class
+#	new file:   recfun/project/project/target/config-classes/$fa9f2372d644abf7c131.cache
+#	new file:   recfun/project/project/target/config-classes/$fa9f2372d644abf7c131.class
+#	new file:   recfun/project/target/.sbt-compilation-infos/recfun-compile/.sbt-idea-lock
+#	new file:   recfun/project/target/config-classes/$27982329bf1044d4ecf5$.class
+#	new file:   recfun/project/target/config-classes/$27982329bf1044d4ecf5.cache
+#	new file:   recfun/project/target/config-classes/$27982329bf1044d4ecf5.class
+#	new file:   recfun/project/target/config-classes/$470e537065d86c3e5e57$.class
+#	new file:   recfun/project/target/config-classes/$470e537065d86c3e5e57.cache
+#	new file:   recfun/project/target/config-classes/$470e537065d86c3e5e57.class
+#	new file:   recfun/project/target/config-classes/$58c7c5498ec0e723f419$.class
+#	new file:   recfun/project/target/config-classes/$58c7c5498ec0e723f419.cache
+#	new file:   recfun/project/target/config-classes/$58c7c5498ec0e723f419.class
+#	new file:   recfun/project/target/config-classes/$5ef6fe7318f5fa352568$.class
+#	new file:   recfun/project/target/config-classes/$5ef6fe7318f5fa352568.cache
+#	new file:   recfun/project/target/config-classes/$5ef6fe7318f5fa352568.class
+#	new file:   recfun/project/target/config-classes/$d8905fe2bcdcf5836dda$.class
+#	new file:   recfun/project/target/config-classes/$d8905fe2bcdcf5836dda.cache
+#	new file:   recfun/project/target/config-classes/$d8905fe2bcdcf5836dda.class
+#	new file:   recfun/project/target/config-classes/$db47850b035192dab3f9$.class
+#	new file:   recfun/project/target/config-classes/$db47850b035192dab3f9.cache
+#	new file:   recfun/project/target/config-classes/$db47850b035192dab3f9.class
+#	new file:   recfun/project/target/config-classes/$dc1d4cbcf89440bcdc98$.class
+#	new file:   recfun/project/target/config-classes/$dc1d4cbcf89440bcdc98.cache
+#	new file:   recfun/project/target/config-classes/$dc1d4cbcf89440bcdc98.class
+#	new file:   recfun/project/target/config-classes/$f56424d0392a2d39f0db$.class
+#	new file:   recfun/project/target/config-classes/$f56424d0392a2d39f0db.cache
+#	new file:   recfun/project/target/config-classes/$f56424d0392a2d39f0db.class
+#	new file:   recfun/project/target/config-classes/$f5c0ec3bda314ede2532$.class
+#	new file:   recfun/project/target/config-classes/$f5c0ec3bda314ede2532.cache
+#	new file:   recfun/project/target/config-classes/$f5c0ec3bda314ede2532.class
+#	new file:   recfun/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/CourseraId$.class
+#	new file:   recfun/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/CourseraId.class
+#	new file:   recfun/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/MOOCSettings$.class
+#	new file:   recfun/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/MOOCSettings$autoImport$.class
+#	new file:   recfun/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/MOOCSettings.class
+#	new file:   recfun/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/StudentTasks$.class
+#	new file:   recfun/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/StudentTasks$autoImport$.class
+#	new file:   recfun/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/StudentTasks.class
+#	new file:   recfun/project/target/scala-2.12/sbt-1.0/classes/sbt/sbt.autoplugins
+#	new file:   recfun/project/target/scala-2.12/sbt-1.0/resource_managed/main/sbt/sbt.autoplugins
+#	new file:   recfun/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs
+#	new file:   recfun/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output
+#	new file:   recfun/project/target/streams/_global/_global/_global/streams/out
+#	new file:   recfun/project/target/streams/_global/_global/csrLogger/_global/streams/out
+#	new file:   recfun/project/target/streams/_global/csrConfiguration/_global/streams/out
+#	new file:   recfun/project/target/streams/_global/csrProject/_global/streams/out
+#	new file:   recfun/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp
+#	new file:   recfun/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp
+#	new file:   recfun/project/target/streams/_global/ivyConfiguration/_global/streams/out
+#	new file:   recfun/project/target/streams/_global/ivySbt/_global/streams/out
+#	new file:   recfun/project/target/streams/_global/moduleSettings/_global/streams/out
+#	new file:   recfun/project/target/streams/_global/projectDescriptors/_global/streams/out
+#	new file:   recfun/project/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out
+#	new file:   recfun/project/target/streams/_global/update/_global/streams/out
+#	new file:   recfun/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous
+#	new file:   recfun/project/target/streams/compile/_global/_global/compileOutputs/previous
+#	new file:   recfun/project/target/streams/compile/_global/_global/compileSourceFileInputs/previous
+#	new file:   recfun/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous
+#	new file:   recfun/project/target/streams/compile/_global/_global/discoveredMainClasses/data
+#	new file:   recfun/project/target/streams/compile/_global/_global/managedSourcePaths/previous
+#	new file:   recfun/project/target/streams/compile/compile/_global/streams/out
+#	new file:   recfun/project/target/streams/compile/compileIncSetup/_global/streams/inc_compile_2.12.zip
+#	new file:   recfun/project/target/streams/compile/compileIncremental/_global/streams/export
+#	new file:   recfun/project/target/streams/compile/compileIncremental/_global/streams/out
+#	new file:   recfun/project/target/streams/compile/copyResources/_global/streams/copy-resources
+#	new file:   recfun/project/target/streams/compile/copyResources/_global/streams/out
+#	new file:   recfun/project/target/streams/compile/dependencyClasspath/_global/streams/export
+#	new file:   recfun/project/target/streams/compile/exportedProducts/_global/streams/export
+#	new file:   recfun/project/target/streams/compile/externalDependencyClasspath/_global/streams/export
+#	new file:   recfun/project/target/streams/compile/internalDependencyClasspath/_global/streams/export
+#	new file:   recfun/project/target/streams/compile/managedClasspath/_global/streams/export
+#	new file:   recfun/project/target/streams/compile/unmanagedClasspath/_global/streams/export
+#	new file:   recfun/project/target/streams/compile/unmanagedJars/_global/streams/export
+#	new file:   recfun/project/target/streams/runtime/dependencyClasspath/_global/streams/export
+#	new file:   recfun/project/target/streams/runtime/exportedProducts/_global/streams/export
+#	new file:   recfun/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export
+#	new file:   recfun/project/target/streams/runtime/fullClasspath/_global/streams/export
+#	new file:   recfun/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export
+#	new file:   recfun/project/target/streams/runtime/managedClasspath/_global/streams/export
+#	new file:   recfun/project/target/streams/runtime/unmanagedClasspath/_global/streams/export
+#	new file:   recfun/project/target/streams/runtime/unmanagedJars/_global/streams/export
+#	new file:   recfun/src/main/scala/recfun/RecFun.scala
+#	new file:   recfun/src/main/scala/recfun/RecFunInterface.scala
+#	new file:   recfun/src/test/scala/recfun/RecFunSuite.scala
+#	new file:   recfun/target/.history
+#	new file:   recfun/target/scala-2.13/classes/recfun/RecFun$.class
+#	new file:   recfun/target/scala-2.13/classes/recfun/RecFun.class
+#	new file:   recfun/target/scala-2.13/classes/recfun/RecFunInterface.class
+#	new file:   recfun/target/scala-2.13/progfun1-recfun-without-resources_2.13-0.1.0-SNAPSHOT.jar
+#	new file:   recfun/target/scala-2.13/progfun1-recfun_2.13-0.1.0-SNAPSHOT-sources.jar
+#	new file:   recfun/target/scala-2.13/submission.zip
+#	new file:   recfun/target/scala-2.13/test-classes/recfun/RecFunSuite.class
+#	new file:   recfun/target/scala-2.13/update/update_cache_2.13/inputs
+#	new file:   recfun/target/scala-2.13/update/update_cache_2.13/output
+#	new file:   recfun/target/streams/_global/_global/_global/streams/out
+#	new file:   recfun/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous
+#	new file:   recfun/target/streams/_global/_global/checkBuildSources/_global/streams/out
+#	new file:   recfun/target/streams/_global/_global/csrLogger/_global/streams/out
+#	new file:   recfun/target/streams/_global/_global/dumpStructure/_global/streams/out
+#	new file:   recfun/target/streams/_global/coursierResolutions/_global/streams/out
+#	new file:   recfun/target/streams/_global/csrConfiguration/_global/streams/out
+#	new file:   recfun/target/streams/_global/csrProject/_global/streams/out
+#	new file:   recfun/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/input_dsp
+#	new file:   recfun/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.13/output_dsp
+#	new file:   recfun/target/streams/_global/ivyConfiguration/_global/streams/out
+#	new file:   recfun/target/streams/_global/ivySbt/_global/streams/out
+#	new file:   recfun/target/streams/_global/moduleSettings/_global/streams/out
+#	new file:   recfun/target/streams/_global/projectDescriptors/_global/streams/out
+#	new file:   recfun/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out
+#	new file:   recfun/target/streams/_global/ssExtractDependencies/_global/streams/out
+#	new file:   recfun/target/streams/_global/submit/_global/streams/out
+#	new file:   recfun/target/streams/_global/update/_global/streams/out
+#	new file:   recfun/target/streams/_global/updateClassifiers/_global/streams/out
+#	new file:   recfun/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/inputs
+#	new file:   recfun/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output
+#	new file:   recfun/target/streams/compile/_global/_global/compileBinaryFileInputs/previous
+#	new file:   recfun/target/streams/compile/_global/_global/compileOutputs/previous
+#	new file:   recfun/target/streams/compile/_global/_global/compileSourceFileInputs/previous
+#	new file:   recfun/target/streams/compile/_global/_global/dependencyClasspathFiles/previous
+#	new file:   recfun/target/streams/compile/_global/_global/discoveredMainClasses/data
+#	new file:   recfun/target/streams/compile/_global/_global/managedSourcePaths/previous
+#	new file:   recfun/target/streams/compile/compile/_global/streams/out
+#	new file:   recfun/target/streams/compile/compileIncSetup/_global/streams/inc_compile_2.13.zip
+#	new file:   recfun/target/streams/compile/compileIncremental/_global/streams/export
+#	new file:   recfun/target/streams/compile/compileIncremental/_global/streams/out
+#	new file:   recfun/target/streams/compile/copyResources/_global/streams/copy-resources
+#	new file:   recfun/target/streams/compile/copyResources/_global/streams/out
+#	new file:   recfun/target/streams/compile/dependencyClasspath/_global/streams/export
+#	new file:   recfun/target/streams/compile/externalDependencyClasspath/_global/streams/export
+#	new file:   recfun/target/streams/compile/internalDependencyClasspath/_global/streams/export
+#	new file:   recfun/target/streams/compile/managedClasspath/_global/streams/export
+#	new file:   recfun/target/streams/compile/packageBinWithoutResources/_global/streams/inputs
+#	new file:   recfun/target/streams/compile/packageBinWithoutResources/_global/streams/out
+#	new file:   recfun/target/streams/compile/packageBinWithoutResources/_global/streams/output
+#	new file:   recfun/target/streams/compile/packageSourcesOnly/_global/streams/inputs
+#	new file:   recfun/target/streams/compile/packageSourcesOnly/_global/streams/out
+#	new file:   recfun/target/streams/compile/packageSourcesOnly/_global/streams/output
+#	new file:   recfun/target/streams/compile/unmanagedClasspath/_global/streams/export
+#	new file:   recfun/target/streams/compile/unmanagedJars/_global/streams/export
+#	new file:   recfun/target/streams/runtime/externalDependencyClasspath/_global/streams/export
+#	new file:   recfun/target/streams/runtime/managedClasspath/_global/streams/export
+#	new file:   recfun/target/streams/runtime/unmanagedClasspath/_global/streams/export
+#	new file:   recfun/target/streams/runtime/unmanagedJars/_global/streams/export
+#	new file:   recfun/target/streams/test/externalDependencyClasspath/_global/streams/export
+#	new file:   recfun/target/streams/test/managedClasspath/_global/streams/export
+#	new file:   recfun/target/streams/test/unmanagedClasspath/_global/streams/export
+#	new file:   recfun/target/streams/test/unmanagedJars/_global/s
+
+
+:q!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
