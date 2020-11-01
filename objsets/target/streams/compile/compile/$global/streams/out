@@ -1,0 +1,118 @@
+[0m[[0m[31merror[0m] [0m[0m/home/robert/Code/Scala/Scala-Specialization---Functional-Programming-in-Scala/objsets/src/main/scala/objsets/TweetSet.scala:58:41: not found: value TweetSet[0m
+[0m[[0m[31merror[0m] [0m[0m  def union(that: TweetSet): TweetSet = TweetSet = {[0m
+[0m[[0m[31merror[0m] [0m[0m                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/robert/Code/Scala/Scala-Specialization---Functional-Programming-in-Scala/objsets/src/main/scala/objsets/TweetSet.scala:76:9: not found: value left[0m
+[0m[[0m[31merror[0m] [0m[0m    if (left.isEmpty && right.isEmpty) elem[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/robert/Code/Scala/Scala-Specialization---Functional-Programming-in-Scala/objsets/src/main/scala/objsets/TweetSet.scala:76:25: not found: value right[0m
+[0m[[0m[31merror[0m] [0m[0m    if (left.isEmpty && right.isEmpty) elem[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/robert/Code/Scala/Scala-Specialization---Functional-Programming-in-Scala/objsets/src/main/scala/objsets/TweetSet.scala:76:40: not found: value elem[0m
+[0m[[0m[31merror[0m] [0m[0m    if (left.isEmpty && right.isEmpty) elem[0m
+[0m[[0m[31merror[0m] [0m[0m                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/robert/Code/Scala/Scala-Specialization---Functional-Programming-in-Scala/objsets/src/main/scala/objsets/TweetSet.scala:77:14: not found: value right[0m
+[0m[[0m[31merror[0m] [0m[0m    else if (right.isEmpty) MaxRet(left.mostRetweeted,elem)[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/robert/Code/Scala/Scala-Specialization---Functional-Programming-in-Scala/objsets/src/main/scala/objsets/TweetSet.scala:77:36: not found: value left[0m
+[0m[[0m[31merror[0m] [0m[0m    else if (right.isEmpty) MaxRet(left.mostRetweeted,elem)[0m
+[0m[[0m[31merror[0m] [0m[0m                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/robert/Code/Scala/Scala-Specialization---Functional-Programming-in-Scala/objsets/src/main/scala/objsets/TweetSet.scala:77:55: not found: value elem[0m
+[0m[[0m[31merror[0m] [0m[0m    else if (right.isEmpty) MaxRet(left.mostRetweeted,elem)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/robert/Code/Scala/Scala-Specialization---Functional-Programming-in-Scala/objsets/src/main/scala/objsets/TweetSet.scala:78:14: not found: value left[0m
+[0m[[0m[31merror[0m] [0m[0m    else if (left.isEmpty) MaxRet(right.mostRetweeted,elem)[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/robert/Code/Scala/Scala-Specialization---Functional-Programming-in-Scala/objsets/src/main/scala/objsets/TweetSet.scala:78:35: not found: value right[0m
+[0m[[0m[31merror[0m] [0m[0m    else if (left.isEmpty) MaxRet(right.mostRetweeted,elem)[0m
+[0m[[0m[31merror[0m] [0m[0m                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/robert/Code/Scala/Scala-Specialization---Functional-Programming-in-Scala/objsets/src/main/scala/objsets/TweetSet.scala:78:55: not found: value elem[0m
+[0m[[0m[31merror[0m] [0m[0m    else if (left.isEmpty) MaxRet(right.mostRetweeted,elem)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/robert/Code/Scala/Scala-Specialization---Functional-Programming-in-Scala/objsets/src/main/scala/objsets/TweetSet.scala:79:17: not found: value left[0m
+[0m[[0m[31merror[0m] [0m[0m    else MaxRet(left.mostRetweeted,MaxRet(left.mostRetweeted,elem))[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/robert/Code/Scala/Scala-Specialization---Functional-Programming-in-Scala/objsets/src/main/scala/objsets/TweetSet.scala:79:43: not found: value left[0m
+[0m[[0m[31merror[0m] [0m[0m    else MaxRet(left.mostRetweeted,MaxRet(left.mostRetweeted,elem))[0m
+[0m[[0m[31merror[0m] [0m[0m                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/robert/Code/Scala/Scala-Specialization---Functional-Programming-in-Scala/objsets/src/main/scala/objsets/TweetSet.scala:79:62: not found: value elem[0m
+[0m[[0m[31merror[0m] [0m[0m    else MaxRet(left.mostRetweeted,MaxRet(left.mostRetweeted,elem))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/robert/Code/Scala/Scala-Specialization---Functional-Programming-in-Scala/objsets/src/main/scala/objsets/TweetSet.scala:92:8: not found: value isEmpty[0m
+[0m[[0m[31merror[0m] [0m[0m    if(isEmpty) Nil[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/robert/Code/Scala/Scala-Specialization---Functional-Programming-in-Scala/objsets/src/main/scala/objsets/TweetSet.scala:110:18: not found: value elem[0m
+[0m[[0m[31merror[0m] [0m[0m    if (x.text < elem.text) left.contains(x)[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/robert/Code/Scala/Scala-Specialization---Functional-Programming-in-Scala/objsets/src/main/scala/objsets/TweetSet.scala:110:29: not found: value left[0m
+[0m[[0m[31merror[0m] [0m[0m    if (x.text < elem.text) left.contains(x)[0m
+[0m[[0m[31merror[0m] [0m[0m                            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/robert/Code/Scala/Scala-Specialization---Functional-Programming-in-Scala/objsets/src/main/scala/objsets/TweetSet.scala:111:14: not found: value elem[0m
+[0m[[0m[31merror[0m] [0m[0m    else if (elem.text < x.text) right.contains(x)[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/robert/Code/Scala/Scala-Specialization---Functional-Programming-in-Scala/objsets/src/main/scala/objsets/TweetSet.scala:111:34: not found: value right[0m
+[0m[[0m[31merror[0m] [0m[0m    else if (elem.text < x.text) right.contains(x)[0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/robert/Code/Scala/Scala-Specialization---Functional-Programming-in-Scala/objsets/src/main/scala/objsets/TweetSet.scala:115:18: not found: value elem[0m
+[0m[[0m[31merror[0m] [0m[0m    if (x.text < elem.text) new NonEmpty(elem, left.incl(x), right)[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/robert/Code/Scala/Scala-Specialization---Functional-Programming-in-Scala/objsets/src/main/scala/objsets/TweetSet.scala:115:42: not found: value elem[0m
+[0m[[0m[31merror[0m] [0m[0m    if (x.text < elem.text) new NonEmpty(elem, left.incl(x), right)[0m
+[0m[[0m[31merror[0m] [0m[0m                                         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/robert/Code/Scala/Scala-Specialization---Functional-Programming-in-Scala/objsets/src/main/scala/objsets/TweetSet.scala:115:48: not found: value left[0m
+[0m[[0m[31merror[0m] [0m[0m    if (x.text < elem.text) new NonEmpty(elem, left.incl(x), right)[0m
+[0m[[0m[31merror[0m] [0m[0m                                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/robert/Code/Scala/Scala-Specialization---Functional-Programming-in-Scala/objsets/src/main/scala/objsets/TweetSet.scala:115:62: not found: value right[0m
+[0m[[0m[31merror[0m] [0m[0m    if (x.text < elem.text) new NonEmpty(elem, left.incl(x), right)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/robert/Code/Scala/Scala-Specialization---Functional-Programming-in-Scala/objsets/src/main/scala/objsets/TweetSet.scala:116:14: not found: value elem[0m
+[0m[[0m[31merror[0m] [0m[0m    else if (elem.text < x.text) new NonEmpty(elem, left, right.incl(x))[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/robert/Code/Scala/Scala-Specialization---Functional-Programming-in-Scala/objsets/src/main/scala/objsets/TweetSet.scala:116:47: not found: value elem[0m
+[0m[[0m[31merror[0m] [0m[0m    else if (elem.text < x.text) new NonEmpty(elem, left, right.incl(x))[0m
+[0m[[0m[31merror[0m] [0m[0m                                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/robert/Code/Scala/Scala-Specialization---Functional-Programming-in-Scala/objsets/src/main/scala/objsets/TweetSet.scala:116:53: not found: value left[0m
+[0m[[0m[31merror[0m] [0m[0m    else if (elem.text < x.text) new NonEmpty(elem, left, right.incl(x))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/robert/Code/Scala/Scala-Specialization---Functional-Programming-in-Scala/objsets/src/main/scala/objsets/TweetSet.scala:116:59: not found: value right[0m
+[0m[[0m[31merror[0m] [0m[0m    else if (elem.text < x.text) new NonEmpty(elem, left, right.incl(x))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/robert/Code/Scala/Scala-Specialization---Functional-Programming-in-Scala/objsets/src/main/scala/objsets/TweetSet.scala:121:19: not found: value elem[0m
+[0m[[0m[31merror[0m] [0m[0m    if (tw.text < elem.text) new NonEmpty(elem, left.remove(tw), right)[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/robert/Code/Scala/Scala-Specialization---Functional-Programming-in-Scala/objsets/src/main/scala/objsets/TweetSet.scala:121:43: not found: value elem[0m
+[0m[[0m[31merror[0m] [0m[0m    if (tw.text < elem.text) new NonEmpty(elem, left.remove(tw), right)[0m
+[0m[[0m[31merror[0m] [0m[0m                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/robert/Code/Scala/Scala-Specialization---Functional-Programming-in-Scala/objsets/src/main/scala/objsets/TweetSet.scala:121:49: not found: value left[0m
+[0m[[0m[31merror[0m] [0m[0m    if (tw.text < elem.text) new NonEmpty(elem, left.remove(tw), right)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/robert/Code/Scala/Scala-Specialization---Functional-Programming-in-Scala/objsets/src/main/scala/objsets/TweetSet.scala:121:66: not found: value right[0m
+[0m[[0m[31merror[0m] [0m[0m    if (tw.text < elem.text) new NonEmpty(elem, left.remove(tw), right)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/robert/Code/Scala/Scala-Specialization---Functional-Programming-in-Scala/objsets/src/main/scala/objsets/TweetSet.scala:122:14: not found: value elem[0m
+[0m[[0m[31merror[0m] [0m[0m    else if (elem.text < tw.text) new NonEmpty(elem, left, right.remove(tw))[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/robert/Code/Scala/Scala-Specialization---Functional-Programming-in-Scala/objsets/src/main/scala/objsets/TweetSet.scala:122:48: not found: value elem[0m
+[0m[[0m[31merror[0m] [0m[0m    else if (elem.text < tw.text) new NonEmpty(elem, left, right.remove(tw))[0m
+[0m[[0m[31merror[0m] [0m[0m                                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/robert/Code/Scala/Scala-Specialization---Functional-Programming-in-Scala/objsets/src/main/scala/objsets/TweetSet.scala:122:54: not found: value left[0m
+[0m[[0m[31merror[0m] [0m[0m    else if (elem.text < tw.text) new NonEmpty(elem, left, right.remove(tw))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/robert/Code/Scala/Scala-Specialization---Functional-Programming-in-Scala/objsets/src/main/scala/objsets/TweetSet.scala:122:60: not found: value right[0m
+[0m[[0m[31merror[0m] [0m[0m    else if (elem.text < tw.text) new NonEmpty(elem, left, right.remove(tw))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/robert/Code/Scala/Scala-Specialization---Functional-Programming-in-Scala/objsets/src/main/scala/objsets/TweetSet.scala:123:10: not found: value left[0m
+[0m[[0m[31merror[0m] [0m[0m    else left.union(right)[0m
+[0m[[0m[31merror[0m] [0m[0m         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/robert/Code/Scala/Scala-Specialization---Functional-Programming-in-Scala/objsets/src/main/scala/objsets/TweetSet.scala:123:21: not found: value right[0m
+[0m[[0m[31merror[0m] [0m[0m    else left.union(right)[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/robert/Code/Scala/Scala-Specialization---Functional-Programming-in-Scala/objsets/src/main/scala/objsets/TweetSet.scala:126:7: not found: value elem[0m
+[0m[[0m[31merror[0m] [0m[0m    f(elem)[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/robert/Code/Scala/Scala-Specialization---Functional-Programming-in-Scala/objsets/src/main/scala/objsets/TweetSet.scala:127:5: not found: value left[0m
+[0m[[0m[31merror[0m] [0m[0m    left.foreach(f)[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/robert/Code/Scala/Scala-Specialization---Functional-Programming-in-Scala/objsets/src/main/scala/objsets/TweetSet.scala:128:5: not found: value right[0m
+[0m[[0m[31merror[0m] [0m[0m    right.foreach(f)[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m39 errors found[0m

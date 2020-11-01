@@ -3,6 +3,7 @@
 	<name>objsets</name>
 	<comment></comment>
 	<projects>
+		<project>Scala-Specialization---Functional-Programming-in-Scala</project>
 	</projects>
 	<buildSpec>
 	</buildSpec>

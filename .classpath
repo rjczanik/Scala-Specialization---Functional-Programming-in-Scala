@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="example/src/main/scala"/>
+	<classpathentry kind="src" path="example/src/test/scala"/>
+	<classpathentry kind="src" path="funsets/src/main/scala"/>
+	<classpathentry kind="src" path="funsets/src/test/scala"/>
+	<classpathentry kind="src" path="objsets/src/main/scala"/>
+	<classpathentry kind="src" path="objsets/src/test/scala"/>
+	<classpathentry kind="src" path="old_funsets/src/main/scala"/>
+	<classpathentry kind="src" path="old_funsets/src/test/scala"/>
+	<classpathentry kind="src" path="old_recfun/src/main/scala"/>
+	<classpathentry kind="src" path="old_recfun/src/test/scala"/>
+	<classpathentry kind="src" path="patmat/src/main/scala"/>
+	<classpathentry kind="src" path="patmat/src/test/scala"/>
+	<classpathentry kind="src" path="progfun/.worksheet/src"/>
+	<classpathentry kind="src" path="progfun/src"/>
+	<classpathentry kind="src" path="recfun/src/main/scala"/>
+	<classpathentry kind="src" path="recfun/src/test/scala"/>
+	<classpathentry kind="src" path="Test/src"/>
+	<classpathentry kind="src" path="Week1/src/com/company"/>
+	<classpathentry kind="output" path="Test/bin"/>
+</classpath>
