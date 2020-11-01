@@ -1,6 +1,6 @@
 package week4
 
-abstract class Nat 
+abstract class Nat
 {
 	def isZero: Boolean
 	def predecessor: Nat
